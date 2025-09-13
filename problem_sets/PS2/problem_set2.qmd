@@ -1,6 +1,6 @@
 ---
 title: "PHW251 Problem Set 2"
-author: "Your name here"
+author: "Nilson Palma"
 date: "today"
 format: pdf
 editor: visual
