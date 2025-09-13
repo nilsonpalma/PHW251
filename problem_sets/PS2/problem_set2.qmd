@@ -221,12 +221,12 @@ If you haven't created a GitHub account yet, do it now. Paste a link to your Git
 
 You're working on a group coding project with your classmates that's due soon. After a weekend away from your computer, you open R Studio to start working. What is the first git command you should run?
 
-*WRITE YOUR ANSWER HERE*
+*git Pull*
 
 ### Question 7
 
 You write some new code, save your Qmd file, commit your changes to your local repository, and then go eat dinner. While you're eating, your teammate sends you a message asking where your new code is. What did you forget to do?
 
-*WRITE YOUR ANSWER HERE*
+*git Push*
 
 You're done! Please render to pdf and upload to Gradescope.
