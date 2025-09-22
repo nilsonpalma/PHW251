@@ -1,0 +1,2125 @@
+Disease,County,Year,Sex,Cases,Population
+Chlamydia,California,2015,Female,121749,19634752
+Chlamydia,California,2015,Male,67694,19441376
+Chlamydia,California,2015,Total,189747,39076128
+Chlamydia,California,2016,Female,123924,19758238
+Chlamydia,California,2016,Male,73708,19570099
+Chlamydia,California,2016,Total,198245,39328337
+Chlamydia,California,2017,Female,134847,19891334
+Chlamydia,California,2017,Male,83203,19719222
+Chlamydia,California,2017,Total,218519,39610556
+Chlamydia,California,2018,Female,142397,19989903
+Chlamydia,California,2018,Male,89156,19835278
+Chlamydia,California,2018,Total,232181,39825181
+Chlamydia,Alameda,2015,Female,4924,825325
+Chlamydia,Alameda,2015,Male,3133,796390
+Chlamydia,Alameda,2015,Total,8063,1621715
+Chlamydia,Alameda,2016,Female,4767,833118
+Chlamydia,Alameda,2016,Male,3393,804648
+Chlamydia,Alameda,2016,Total,8172,1637766
+Chlamydia,Alameda,2017,Female,5137,839632
+Chlamydia,Alameda,2017,Male,4016,811687
+Chlamydia,Alameda,2017,Total,9180,1651319
+Chlamydia,Alameda,2018,Female,5431,845084
+Chlamydia,Alameda,2018,Male,4251,817691
+Chlamydia,Alameda,2018,Total,9719,1662775
+Chlamydia,Alpine,2015,Female,NA,561
+Chlamydia,Alpine,2015,Male,NA,593
+Chlamydia,Alpine,2015,Total,1,1154
+Chlamydia,Alpine,2016,Female,NA,558
+Chlamydia,Alpine,2016,Male,NA,593
+Chlamydia,Alpine,2016,Total,4,1151
+Chlamydia,Alpine,2017,Female,NA,558
+Chlamydia,Alpine,2017,Male,NA,588
+Chlamydia,Alpine,2017,Total,9,1146
+Chlamydia,Alpine,2018,Female,NA,557
+Chlamydia,Alpine,2018,Male,NA,584
+Chlamydia,Alpine,2018,Total,12,1141
+Chlamydia,Amador,2015,Female,51,17062
+Chlamydia,Amador,2015,Male,15,19333
+Chlamydia,Amador,2015,Total,66,36395
+Chlamydia,Amador,2016,Female,68,17063
+Chlamydia,Amador,2016,Male,27,19799
+Chlamydia,Amador,2016,Total,95,36862
+Chlamydia,Amador,2017,Female,53,17312
+Chlamydia,Amador,2017,Male,13,20093
+Chlamydia,Amador,2017,Total,66,37405
+Chlamydia,Amador,2018,Female,39,17610
+Chlamydia,Amador,2018,Male,21,20453
+Chlamydia,Amador,2018,Total,63,38063
+Chlamydia,Butte,2015,Female,763,112942
+Chlamydia,Butte,2015,Male,367,111591
+Chlamydia,Butte,2015,Total,1131,224533
+Chlamydia,Butte,2016,Female,894,113218
+Chlamydia,Butte,2016,Male,392,111876
+Chlamydia,Butte,2016,Total,1288,225094
+Chlamydia,Butte,2017,Female,834,113865
+Chlamydia,Butte,2017,Male,375,112796
+Chlamydia,Butte,2017,Total,1210,226661
+Chlamydia,Butte,2018,Female,899,114368
+Chlamydia,Butte,2018,Male,420,113469
+Chlamydia,Butte,2018,Total,1320,227837
+Chlamydia,Calaveras,2015,Female,46,22492
+Chlamydia,Calaveras,2015,Male,16,22415
+Chlamydia,Calaveras,2015,Total,62,44907
+Chlamydia,Calaveras,2016,Female,55,22436
+Chlamydia,Calaveras,2016,Male,30,22327
+Chlamydia,Calaveras,2016,Total,86,44763
+Chlamydia,Calaveras,2017,Female,50,22403
+Chlamydia,Calaveras,2017,Male,24,22253
+Chlamydia,Calaveras,2017,Total,75,44656
+Chlamydia,Calaveras,2018,Female,76,22378
+Chlamydia,Calaveras,2018,Male,42,22259
+Chlamydia,Calaveras,2018,Total,119,44637
+Chlamydia,Colusa,2015,Female,40,10864
+Chlamydia,Colusa,2015,Male,20,11435
+Chlamydia,Colusa,2015,Total,60,22299
+Chlamydia,Colusa,2016,Female,56,10965
+Chlamydia,Colusa,2016,Male,14,11511
+Chlamydia,Colusa,2016,Total,70,22476
+Chlamydia,Colusa,2017,Female,29,11034
+Chlamydia,Colusa,2017,Male,20,11598
+Chlamydia,Colusa,2017,Total,49,22632
+Chlamydia,Colusa,2018,Female,42,11079
+Chlamydia,Colusa,2018,Male,14,11665
+Chlamydia,Colusa,2018,Total,56,22744
+Chlamydia,Contra Costa,2015,Female,3201,571696
+Chlamydia,Contra Costa,2015,Male,1511,546580
+Chlamydia,Contra Costa,2015,Total,4713,1118276
+Chlamydia,Contra Costa,2016,Female,3510,577692
+Chlamydia,Contra Costa,2016,Male,1696,552382
+Chlamydia,Contra Costa,2016,Total,5212,1130074
+Chlamydia,Contra Costa,2017,Female,3792,581487
+Chlamydia,Contra Costa,2017,Male,1915,556714
+Chlamydia,Contra Costa,2017,Total,5722,1138201
+Chlamydia,Contra Costa,2018,Female,3911,585159
+Chlamydia,Contra Costa,2018,Male,2199,560717
+Chlamydia,Contra Costa,2018,Total,6146,1145876
+Chlamydia,Del Norte,2015,Female,66,12291
+Chlamydia,Del Norte,2015,Male,27,14834
+Chlamydia,Del Norte,2015,Total,93,27125
+Chlamydia,Del Norte,2016,Female,42,12473
+Chlamydia,Del Norte,2016,Male,19,14519
+Chlamydia,Del Norte,2016,Total,63,26992
+Chlamydia,Del Norte,2017,Female,72,12391
+Chlamydia,Del Norte,2017,Male,28,14420
+Chlamydia,Del Norte,2017,Total,100,26811
+Chlamydia,Del Norte,2018,Female,58,12608
+Chlamydia,Del Norte,2018,Male,31,14667
+Chlamydia,Del Norte,2018,Total,89,27275
+Chlamydia,El Dorado,2015,Female,297,91357
+Chlamydia,El Dorado,2015,Male,125,92001
+Chlamydia,El Dorado,2015,Total,422,183358
+Chlamydia,El Dorado,2016,Female,308,91777
+Chlamydia,El Dorado,2016,Male,136,92558
+Chlamydia,El Dorado,2016,Total,444,184335
+Chlamydia,El Dorado,2017,Female,313,92825
+Chlamydia,El Dorado,2017,Male,138,93731
+Chlamydia,El Dorado,2017,Total,451,186556
+Chlamydia,El Dorado,2018,Female,297,94004
+Chlamydia,El Dorado,2018,Male,147,94989
+Chlamydia,El Dorado,2018,Total,447,188993
+Chlamydia,Fresno,2015,Female,4410,490514
+Chlamydia,Fresno,2015,Male,1493,489702
+Chlamydia,Fresno,2015,Total,5914,980216
+Chlamydia,Fresno,2016,Female,4716,494729
+Chlamydia,Fresno,2016,Male,1717,494256
+Chlamydia,Fresno,2016,Total,6441,988985
+Chlamydia,Fresno,2017,Female,5102,500034
+Chlamydia,Fresno,2017,Male,2063,500109
+Chlamydia,Fresno,2017,Total,7171,1000143
+Chlamydia,Fresno,2018,Female,5047,505122
+Chlamydia,Fresno,2018,Male,2083,505804
+Chlamydia,Fresno,2018,Total,7140,1010926
+Chlamydia,Glenn,2015,Female,69,14308
+Chlamydia,Glenn,2015,Male,22,14657
+Chlamydia,Glenn,2015,Total,91,28965
+Chlamydia,Glenn,2016,Female,86,14362
+Chlamydia,Glenn,2016,Male,21,14706
+Chlamydia,Glenn,2016,Total,108,29068
+Chlamydia,Glenn,2017,Female,73,14431
+Chlamydia,Glenn,2017,Male,35,14774
+Chlamydia,Glenn,2017,Total,111,29205
+Chlamydia,Glenn,2018,Female,83,14487
+Chlamydia,Glenn,2018,Male,37,14850
+Chlamydia,Glenn,2018,Total,120,29337
+Chlamydia,Humboldt,2015,Female,419,67323
+Chlamydia,Humboldt,2015,Male,203,67852
+Chlamydia,Humboldt,2015,Total,622,135175
+Chlamydia,Humboldt,2016,Female,493,67755
+Chlamydia,Humboldt,2016,Male,256,68223
+Chlamydia,Humboldt,2016,Total,749,135978
+Chlamydia,Humboldt,2017,Female,475,67679
+Chlamydia,Humboldt,2017,Male,239,68186
+Chlamydia,Humboldt,2017,Total,714,135865
+Chlamydia,Humboldt,2018,Female,526,67565
+Chlamydia,Humboldt,2018,Male,263,68062
+Chlamydia,Humboldt,2018,Total,790,135627
+Chlamydia,Imperial,2015,Female,594,91100
+Chlamydia,Imperial,2015,Male,143,93948
+Chlamydia,Imperial,2015,Total,737,185048
+Chlamydia,Imperial,2016,Female,693,91841
+Chlamydia,Imperial,2016,Male,178,94651
+Chlamydia,Imperial,2016,Total,873,186492
+Chlamydia,Imperial,2017,Female,797,92549
+Chlamydia,Imperial,2017,Male,174,95394
+Chlamydia,Imperial,2017,Total,979,187943
+Chlamydia,Imperial,2018,Female,854,93270
+Chlamydia,Imperial,2018,Male,194,96198
+Chlamydia,Imperial,2018,Total,1060,189468
+Chlamydia,Inyo,2015,Female,43,9226
+Chlamydia,Inyo,2015,Male,12,9409
+Chlamydia,Inyo,2015,Total,55,18635
+Chlamydia,Inyo,2016,Female,58,9225
+Chlamydia,Inyo,2016,Male,16,9403
+Chlamydia,Inyo,2016,Total,74,18628
+Chlamydia,Inyo,2017,Female,30,9202
+Chlamydia,Inyo,2017,Male,14,9364
+Chlamydia,Inyo,2017,Total,45,18566
+Chlamydia,Inyo,2018,Female,56,9165
+Chlamydia,Inyo,2018,Male,12,9361
+Chlamydia,Inyo,2018,Total,68,18526
+Chlamydia,Kern,2015,Female,3712,430266
+Chlamydia,Kern,2015,Male,2402,453533
+Chlamydia,Kern,2015,Total,6117,883799
+Chlamydia,Kern,2016,Female,3819,432856
+Chlamydia,Kern,2016,Male,2520,455352
+Chlamydia,Kern,2016,Total,6340,888208
+Chlamydia,Kern,2017,Female,4075,437639
+Chlamydia,Kern,2017,Male,2765,460310
+Chlamydia,Kern,2017,Total,6841,897949
+Chlamydia,Kern,2018,Female,4286,442149
+Chlamydia,Kern,2018,Male,2669,465369
+Chlamydia,Kern,2018,Total,6957,907518
+Chlamydia,Kings,2015,Female,425,67827
+Chlamydia,Kings,2015,Male,167,82079
+Chlamydia,Kings,2015,Total,592,149906
+Chlamydia,Kings,2016,Female,575,67801
+Chlamydia,Kings,2016,Male,287,81511
+Chlamydia,Kings,2016,Total,863,149312
+Chlamydia,Kings,2017,Female,670,68546
+Chlamydia,Kings,2017,Male,320,82446
+Chlamydia,Kings,2017,Total,991,150992
+Chlamydia,Kings,2018,Female,628,69664
+Chlamydia,Kings,2018,Male,343,83876
+Chlamydia,Kings,2018,Total,972,153540
+Chlamydia,Lake,2015,Female,178,32411
+Chlamydia,Lake,2015,Male,75,32448
+Chlamydia,Lake,2015,Total,253,64859
+Chlamydia,Lake,2016,Female,198,32311
+Chlamydia,Lake,2016,Male,84,32273
+Chlamydia,Lake,2016,Total,284,64584
+Chlamydia,Lake,2017,Female,170,32535
+Chlamydia,Lake,2017,Male,90,32395
+Chlamydia,Lake,2017,Total,261,64930
+Chlamydia,Lake,2018,Female,222,32690
+Chlamydia,Lake,2018,Male,108,32480
+Chlamydia,Lake,2018,Total,331,65170
+Chlamydia,Lassen,2015,Female,50,11667
+Chlamydia,Lassen,2015,Male,27,19320
+Chlamydia,Lassen,2015,Total,78,30987
+Chlamydia,Lassen,2016,Female,52,11532
+Chlamydia,Lassen,2016,Male,24,19062
+Chlamydia,Lassen,2016,Total,76,30594
+Chlamydia,Lassen,2017,Female,66,11556
+Chlamydia,Lassen,2017,Male,26,19048
+Chlamydia,Lassen,2017,Total,94,30604
+Chlamydia,Lassen,2018,Female,78,11559
+Chlamydia,Lassen,2018,Male,39,19004
+Chlamydia,Lassen,2018,Total,117,30563
+Chlamydia,Los Angeles,2015,Female,35020,5153697
+Chlamydia,Los Angeles,2015,Male,21985,5027369
+Chlamydia,Los Angeles,2015,Total,57129,10181066
+Chlamydia,Los Angeles,2016,Female,35055,5169943
+Chlamydia,Los Angeles,2016,Male,23772,5045264
+Chlamydia,Los Angeles,2016,Total,59160,10215207
+Chlamydia,Los Angeles,2017,Female,37723,5191338
+Chlamydia,Los Angeles,2017,Male,26454,5070398
+Chlamydia,Los Angeles,2017,Total,64301,10261736
+Chlamydia,Los Angeles,2018,Female,39478,5197594
+Chlamydia,Los Angeles,2018,Male,28398,5081242
+Chlamydia,Los Angeles,2018,Total,68021,10278836
+Chlamydia,Madera,2015,Female,578,79903
+Chlamydia,Madera,2015,Male,155,74801
+Chlamydia,Madera,2015,Total,733,154704
+Chlamydia,Madera,2016,Female,595,80181
+Chlamydia,Madera,2016,Male,171,75203
+Chlamydia,Madera,2016,Total,767,155384
+Chlamydia,Madera,2017,Female,622,80884
+Chlamydia,Madera,2017,Male,194,76031
+Chlamydia,Madera,2017,Total,817,156915
+Chlamydia,Madera,2018,Female,710,81519
+Chlamydia,Madera,2018,Male,210,76740
+Chlamydia,Madera,2018,Total,920,158259
+Chlamydia,Marin,2015,Female,383,132819
+Chlamydia,Marin,2015,Male,289,128822
+Chlamydia,Marin,2015,Total,673,261641
+Chlamydia,Marin,2016,Female,437,132998
+Chlamydia,Marin,2016,Male,334,129497
+Chlamydia,Marin,2016,Total,772,262495
+Chlamydia,Marin,2017,Female,478,132721
+Chlamydia,Marin,2017,Male,413,129371
+Chlamydia,Marin,2017,Total,892,262092
+Chlamydia,Marin,2018,Female,448,132644
+Chlamydia,Marin,2018,Male,365,129580
+Chlamydia,Marin,2018,Total,815,262224
+Chlamydia,Mariposa,2015,Female,21,8937
+Chlamydia,Mariposa,2015,Male,11,9149
+Chlamydia,Mariposa,2015,Total,33,18086
+Chlamydia,Mariposa,2016,Female,29,8944
+Chlamydia,Mariposa,2016,Male,11,9122
+Chlamydia,Mariposa,2016,Total,40,18066
+Chlamydia,Mariposa,2017,Female,NA,8934
+Chlamydia,Mariposa,2017,Male,NA,9058
+Chlamydia,Mariposa,2017,Total,24,17992
+Chlamydia,Mariposa,2018,Female,18,8909
+Chlamydia,Mariposa,2018,Male,14,9009
+Chlamydia,Mariposa,2018,Total,32,17918
+Chlamydia,Mendocino,2015,Female,293,44038
+Chlamydia,Mendocino,2015,Male,88,44277
+Chlamydia,Mendocino,2015,Total,383,88315
+Chlamydia,Mendocino,2016,Female,238,44280
+Chlamydia,Mendocino,2016,Male,95,44486
+Chlamydia,Mendocino,2016,Total,333,88766
+Chlamydia,Mendocino,2017,Female,258,44449
+Chlamydia,Mendocino,2017,Male,102,44622
+Chlamydia,Mendocino,2017,Total,360,89071
+Chlamydia,Mendocino,2018,Female,313,44413
+Chlamydia,Mendocino,2018,Male,120,44614
+Chlamydia,Mendocino,2018,Total,434,89027
+Chlamydia,Merced,2015,Female,839,133757
+Chlamydia,Merced,2015,Male,283,136160
+Chlamydia,Merced,2015,Total,1124,269917
+Chlamydia,Merced,2016,Female,906,134997
+Chlamydia,Merced,2016,Male,296,137271
+Chlamydia,Merced,2016,Total,1206,272268
+Chlamydia,Merced,2017,Female,713,137083
+Chlamydia,Merced,2017,Male,323,139528
+Chlamydia,Merced,2017,Total,1041,276611
+Chlamydia,Merced,2018,Female,1147,139076
+Chlamydia,Merced,2018,Male,495,141696
+Chlamydia,Merced,2018,Total,1645,280772
+Chlamydia,Modoc,2015,Female,NA,4786
+Chlamydia,Modoc,2015,Male,NA,4756
+Chlamydia,Modoc,2015,Total,10,9542
+Chlamydia,Modoc,2016,Female,NA,4768
+Chlamydia,Modoc,2016,Male,NA,4734
+Chlamydia,Modoc,2016,Total,22,9502
+Chlamydia,Modoc,2017,Female,NA,4766
+Chlamydia,Modoc,2017,Male,NA,4722
+Chlamydia,Modoc,2017,Total,14,9488
+Chlamydia,Modoc,2018,Female,NA,4780
+Chlamydia,Modoc,2018,Male,NA,4725
+Chlamydia,Modoc,2018,Total,19,9505
+Chlamydia,Mono,2015,Female,20,6533
+Chlamydia,Mono,2015,Male,12,7355
+Chlamydia,Mono,2015,Total,32,13888
+Chlamydia,Mono,2016,Female,15,6500
+Chlamydia,Mono,2016,Male,18,7305
+Chlamydia,Mono,2016,Total,33,13805
+Chlamydia,Mono,2017,Female,NA,6518
+Chlamydia,Mono,2017,Male,NA,7328
+Chlamydia,Mono,2017,Total,26,13846
+Chlamydia,Mono,2018,Female,NA,6547
+Chlamydia,Mono,2018,Male,NA,7340
+Chlamydia,Mono,2018,Total,22,13887
+Chlamydia,Monterey,2015,Female,1251,211863
+Chlamydia,Monterey,2015,Male,534,223480
+Chlamydia,Monterey,2015,Total,1789,435343
+Chlamydia,Monterey,2016,Female,1306,213886
+Chlamydia,Monterey,2016,Male,506,225853
+Chlamydia,Monterey,2016,Total,1814,439739
+Chlamydia,Monterey,2017,Female,1462,215038
+Chlamydia,Monterey,2017,Male,670,227158
+Chlamydia,Monterey,2017,Total,2135,442196
+Chlamydia,Monterey,2018,Female,1555,215824
+Chlamydia,Monterey,2018,Male,680,227995
+Chlamydia,Monterey,2018,Total,2239,443819
+Chlamydia,Napa,2015,Female,308,70808
+Chlamydia,Napa,2015,Male,135,70435
+Chlamydia,Napa,2015,Total,443,141243
+Chlamydia,Napa,2016,Female,308,70894
+Chlamydia,Napa,2016,Male,132,70630
+Chlamydia,Napa,2016,Total,441,141524
+Chlamydia,Napa,2017,Female,373,70673
+Chlamydia,Napa,2017,Male,175,70532
+Chlamydia,Napa,2017,Total,549,141205
+Chlamydia,Napa,2018,Female,379,70328
+Chlamydia,Napa,2018,Male,201,70163
+Chlamydia,Napa,2018,Total,584,140491
+Chlamydia,Nevada,2015,Female,143,49621
+Chlamydia,Nevada,2015,Male,80,48590
+Chlamydia,Nevada,2015,Total,225,98211
+Chlamydia,Nevada,2016,Female,157,49662
+Chlamydia,Nevada,2016,Male,90,48686
+Chlamydia,Nevada,2016,Total,247,98348
+Chlamydia,Nevada,2017,Female,138,49777
+Chlamydia,Nevada,2017,Male,79,48777
+Chlamydia,Nevada,2017,Total,218,98554
+Chlamydia,Nevada,2018,Female,147,49835
+Chlamydia,Nevada,2018,Male,66,48884
+Chlamydia,Nevada,2018,Total,215,98719
+Chlamydia,Orange,2015,Female,7495,1595120
+Chlamydia,Orange,2015,Male,3861,1569110
+Chlamydia,Orange,2015,Total,11371,3164230
+Chlamydia,Orange,2016,Female,8273,1603499
+Chlamydia,Orange,2016,Male,4568,1578155
+Chlamydia,Orange,2016,Total,12861,3181654
+Chlamydia,Orange,2017,Female,8931,1614708
+Chlamydia,Orange,2017,Male,5050,1591147
+Chlamydia,Orange,2017,Total,14019,3205855
+Chlamydia,Orange,2018,Female,9063,1619377
+Chlamydia,Orange,2018,Male,5215,1597440
+Chlamydia,Orange,2018,Total,14338,3216817
+Chlamydia,Placer,2015,Female,645,189327
+Chlamydia,Placer,2015,Male,312,182221
+Chlamydia,Placer,2015,Total,958,371548
+Chlamydia,Placer,2016,Female,629,191794
+Chlamydia,Placer,2016,Male,333,184795
+Chlamydia,Placer,2016,Total,963,376589
+Chlamydia,Placer,2017,Female,672,194890
+Chlamydia,Placer,2017,Male,345,188087
+Chlamydia,Placer,2017,Total,1020,382977
+Chlamydia,Placer,2018,Female,752,197781
+Chlamydia,Placer,2018,Male,365,191266
+Chlamydia,Placer,2018,Total,1124,389047
+Chlamydia,Plumas,2015,Female,37,9831
+Chlamydia,Plumas,2015,Male,30,9801
+Chlamydia,Plumas,2015,Total,67,19632
+Chlamydia,Plumas,2016,Female,39,9815
+Chlamydia,Plumas,2016,Male,20,9775
+Chlamydia,Plumas,2016,Total,59,19590
+Chlamydia,Plumas,2017,Female,43,9785
+Chlamydia,Plumas,2017,Male,25,9765
+Chlamydia,Plumas,2017,Total,68,19550
+Chlamydia,Plumas,2018,Female,32,9771
+Chlamydia,Plumas,2018,Male,29,9746
+Chlamydia,Plumas,2018,Total,61,19517
+Chlamydia,Riverside,2015,Female,6846,1173164
+Chlamydia,Riverside,2015,Male,2940,1160995
+Chlamydia,Riverside,2015,Total,9801,2334159
+Chlamydia,Riverside,2016,Female,5894,1187187
+Chlamydia,Riverside,2016,Male,2653,1175084
+Chlamydia,Riverside,2016,Total,8574,2362271
+Chlamydia,Riverside,2017,Female,7751,1202109
+Chlamydia,Riverside,2017,Male,3392,1190402
+Chlamydia,Riverside,2017,Total,11162,2392511
+Chlamydia,Riverside,2018,Female,7818,1215557
+Chlamydia,Riverside,2018,Male,3650,1204340
+Chlamydia,Riverside,2018,Total,11487,2419897
+Chlamydia,Sacramento,2015,Female,5752,758822
+Chlamydia,Sacramento,2015,Male,2647,731203
+Chlamydia,Sacramento,2015,Total,8413,1490025
+Chlamydia,Sacramento,2016,Female,5703,766124
+Chlamydia,Sacramento,2016,Male,2769,739070
+Chlamydia,Sacramento,2016,Total,8501,1505194
+Chlamydia,Sacramento,2017,Female,6364,773158
+Chlamydia,Sacramento,2017,Male,3374,747527
+Chlamydia,Sacramento,2017,Total,9764,1520685
+Chlamydia,Sacramento,2018,Female,7549,779809
+Chlamydia,Sacramento,2018,Male,4020,755084
+Chlamydia,Sacramento,2018,Total,11645,1534893
+Chlamydia,San Benito,2015,Female,120,29382
+Chlamydia,San Benito,2015,Male,45,29291
+Chlamydia,San Benito,2015,Total,165,58673
+Chlamydia,San Benito,2016,Female,134,29824
+Chlamydia,San Benito,2016,Male,57,29726
+Chlamydia,San Benito,2016,Total,191,59550
+Chlamydia,San Benito,2017,Female,137,30223
+Chlamydia,San Benito,2017,Male,81,30068
+Chlamydia,San Benito,2017,Total,222,60291
+Chlamydia,San Benito,2018,Female,162,30694
+Chlamydia,San Benito,2018,Male,75,30566
+Chlamydia,San Benito,2018,Total,238,61260
+Chlamydia,San Bernardino,2015,Female,7899,1071599
+Chlamydia,San Bernardino,2015,Male,3160,1058476
+Chlamydia,San Bernardino,2015,Total,11060,2130075
+Chlamydia,San Bernardino,2016,Female,7994,1079142
+Chlamydia,San Bernardino,2016,Male,3510,1065725
+Chlamydia,San Bernardino,2016,Total,11530,2144867
+Chlamydia,San Bernardino,2017,Female,9081,1088247
+Chlamydia,San Bernardino,2017,Male,4026,1075314
+Chlamydia,San Bernardino,2017,Total,13137,2163561
+Chlamydia,San Bernardino,2018,Female,9243,1095268
+Chlamydia,San Bernardino,2018,Male,4111,1083224
+Chlamydia,San Bernardino,2018,Total,13379,2178492
+Chlamydia,San Diego,2015,Female,11165,1629486
+Chlamydia,San Diego,2015,Male,6200,1646411
+Chlamydia,San Diego,2015,Total,17397,3275897
+Chlamydia,San Diego,2016,Female,11661,1640100
+Chlamydia,San Diego,2016,Male,7200,1657102
+Chlamydia,San Diego,2016,Total,18909,3297202
+Chlamydia,San Diego,2017,Female,12768,1650959
+Chlamydia,San Diego,2017,Male,8022,1669428
+Chlamydia,San Diego,2017,Total,20814,3320387
+Chlamydia,San Diego,2018,Female,13510,1662322
+Chlamydia,San Diego,2018,Male,8560,1682108
+Chlamydia,San Diego,2018,Total,22101,3344430
+Chlamydia,San Francisco,2015,Female,2509,426743
+Chlamydia,San Francisco,2015,Male,5122,438199
+Chlamydia,San Francisco,2015,Total,7665,864942
+Chlamydia,San Francisco,2016,Female,2625,430874
+Chlamydia,San Francisco,2016,Male,5519,442002
+Chlamydia,San Francisco,2016,Total,8184,872876
+Chlamydia,San Francisco,2017,Female,2874,434960
+Chlamydia,San Francisco,2017,Male,6214,445995
+Chlamydia,San Francisco,2017,Total,9140,880955
+Chlamydia,San Francisco,2018,Female,2775,438348
+Chlamydia,San Francisco,2018,Male,6673,449192
+Chlamydia,San Francisco,2018,Total,9505,887540
+Chlamydia,San Joaquin,2015,Female,2501,365111
+Chlamydia,San Joaquin,2015,Male,1044,363361
+Chlamydia,San Joaquin,2015,Total,3550,728472
+Chlamydia,San Joaquin,2016,Female,2615,369995
+Chlamydia,San Joaquin,2016,Male,1165,368766
+Chlamydia,San Joaquin,2016,Total,3792,738761
+Chlamydia,San Joaquin,2017,Female,2664,375315
+Chlamydia,San Joaquin,2017,Male,1320,374495
+Chlamydia,San Joaquin,2017,Total,3994,749810
+Chlamydia,San Joaquin,2018,Female,2979,379888
+Chlamydia,San Joaquin,2018,Male,1349,379298
+Chlamydia,San Joaquin,2018,Total,4347,759186
+Chlamydia,San Luis Obispo,2015,Female,699,135507
+Chlamydia,San Luis Obispo,2015,Male,384,141352
+Chlamydia,San Luis Obispo,2015,Total,1083,276859
+Chlamydia,San Luis Obispo,2016,Female,773,136054
+Chlamydia,San Luis Obispo,2016,Male,374,142310
+Chlamydia,San Luis Obispo,2016,Total,1147,278364
+Chlamydia,San Luis Obispo,2017,Female,835,136199
+Chlamydia,San Luis Obispo,2017,Male,423,142481
+Chlamydia,San Luis Obispo,2017,Total,1258,278680
+Chlamydia,San Luis Obispo,2018,Female,795,136515
+Chlamydia,San Luis Obispo,2018,Male,405,142855
+Chlamydia,San Luis Obispo,2018,Total,1200,279370
+Chlamydia,San Mateo,2015,Female,1475,387979
+Chlamydia,San Mateo,2015,Male,898,376871
+Chlamydia,San Mateo,2015,Total,2377,764850
+Chlamydia,San Mateo,2016,Female,1559,389713
+Chlamydia,San Mateo,2016,Male,1024,378860
+Chlamydia,San Mateo,2016,Total,2583,768573
+Chlamydia,San Mateo,2017,Female,1650,391068
+Chlamydia,San Mateo,2017,Male,1215,380834
+Chlamydia,San Mateo,2017,Total,2867,771902
+Chlamydia,San Mateo,2018,Female,1772,391861
+Chlamydia,San Mateo,2018,Male,1328,382298
+Chlamydia,San Mateo,2018,Total,3103,774159
+Chlamydia,Santa Barbara,2015,Female,1570,220439
+Chlamydia,Santa Barbara,2015,Male,717,224094
+Chlamydia,Santa Barbara,2015,Total,2290,444533
+Chlamydia,Santa Barbara,2016,Female,1546,221905
+Chlamydia,Santa Barbara,2016,Male,757,225481
+Chlamydia,Santa Barbara,2016,Total,2306,447386
+Chlamydia,Santa Barbara,2017,Female,1674,223181
+Chlamydia,Santa Barbara,2017,Male,759,226957
+Chlamydia,Santa Barbara,2017,Total,2438,450138
+Chlamydia,Santa Barbara,2018,Female,1824,224571
+Chlamydia,Santa Barbara,2018,Male,878,228717
+Chlamydia,Santa Barbara,2018,Total,2704,453288
+Chlamydia,Santa Clara,2015,Female,4221,952364
+Chlamydia,Santa Clara,2015,Male,2538,967481
+Chlamydia,Santa Clara,2015,Total,6765,1919845
+Chlamydia,Santa Clara,2016,Female,4323,958727
+Chlamydia,Santa Clara,2016,Male,2657,975048
+Chlamydia,Santa Clara,2016,Total,6985,1933775
+Chlamydia,Santa Clara,2017,Female,4614,963966
+Chlamydia,Santa Clara,2017,Male,3039,981945
+Chlamydia,Santa Clara,2017,Total,7663,1945911
+Chlamydia,Santa Clara,2018,Female,5002,968453
+Chlamydia,Santa Clara,2018,Male,3321,988126
+Chlamydia,Santa Clara,2018,Total,8331,1956579
+Chlamydia,Santa Cruz,2015,Female,690,137250
+Chlamydia,Santa Cruz,2015,Male,288,137441
+Chlamydia,Santa Cruz,2015,Total,978,274691
+Chlamydia,Santa Cruz,2016,Female,676,137848
+Chlamydia,Santa Cruz,2016,Male,314,137942
+Chlamydia,Santa Cruz,2016,Total,990,275790
+Chlamydia,Santa Cruz,2017,Female,746,137831
+Chlamydia,Santa Cruz,2017,Male,369,138028
+Chlamydia,Santa Cruz,2017,Total,1115,275859
+Chlamydia,Santa Cruz,2018,Female,804,137444
+Chlamydia,Santa Cruz,2018,Male,439,137777
+Chlamydia,Santa Cruz,2018,Total,1244,275221
+Chlamydia,Shasta,2015,Female,442,90912
+Chlamydia,Shasta,2015,Male,204,87672
+Chlamydia,Shasta,2015,Total,646,178584
+Chlamydia,Shasta,2016,Female,446,90473
+Chlamydia,Shasta,2016,Male,216,87269
+Chlamydia,Shasta,2016,Total,662,177742
+Chlamydia,Shasta,2017,Female,396,90662
+Chlamydia,Shasta,2017,Male,174,87578
+Chlamydia,Shasta,2017,Total,570,178240
+Chlamydia,Shasta,2018,Female,464,90580
+Chlamydia,Shasta,2018,Male,180,87682
+Chlamydia,Shasta,2018,Total,646,178262
+Chlamydia,Sierra,2015,Female,NA,1557
+Chlamydia,Sierra,2015,Male,NA,1595
+Chlamydia,Sierra,2015,Total,3,3152
+Chlamydia,Sierra,2016,Female,NA,1561
+Chlamydia,Sierra,2016,Male,NA,1586
+Chlamydia,Sierra,2016,Total,2,3147
+Chlamydia,Sierra,2017,Female,NA,1564
+Chlamydia,Sierra,2017,Male,NA,1585
+Chlamydia,Sierra,2017,Total,9,3149
+Chlamydia,Sierra,2018,Female,NA,1566
+Chlamydia,Sierra,2018,Male,NA,1587
+Chlamydia,Sierra,2018,Total,6,3153
+Chlamydia,Siskiyou,2015,Female,65,22358
+Chlamydia,Siskiyou,2015,Male,29,22182
+Chlamydia,Siskiyou,2015,Total,94,44540
+Chlamydia,Siskiyou,2016,Female,74,22303
+Chlamydia,Siskiyou,2016,Male,27,22115
+Chlamydia,Siskiyou,2016,Total,101,44418
+Chlamydia,Siskiyou,2017,Female,72,22200
+Chlamydia,Siskiyou,2017,Male,24,22040
+Chlamydia,Siskiyou,2017,Total,96,44240
+Chlamydia,Siskiyou,2018,Female,102,22128
+Chlamydia,Siskiyou,2018,Male,38,21954
+Chlamydia,Siskiyou,2018,Total,141,44082
+Chlamydia,Solano,2015,Female,1612,215801
+Chlamydia,Solano,2015,Male,812,213676
+Chlamydia,Solano,2015,Total,2429,429477
+Chlamydia,Solano,2016,Female,1605,217744
+Chlamydia,Solano,2016,Male,759,215917
+Chlamydia,Solano,2016,Total,2365,433661
+Chlamydia,Solano,2017,Female,1755,219554
+Chlamydia,Solano,2017,Male,854,217880
+Chlamydia,Solano,2017,Total,2611,437434
+Chlamydia,Solano,2018,Female,2034,220526
+Chlamydia,Solano,2018,Male,1102,218946
+Chlamydia,Solano,2018,Total,3139,439472
+Chlamydia,Sonoma,2015,Female,1270,254646
+Chlamydia,Sonoma,2015,Male,620,246685
+Chlamydia,Sonoma,2015,Total,1892,501331
+Chlamydia,Sonoma,2016,Female,1225,255677
+Chlamydia,Sonoma,2016,Male,662,247775
+Chlamydia,Sonoma,2016,Total,1890,503452
+Chlamydia,Sonoma,2017,Female,1310,255734
+Chlamydia,Sonoma,2017,Male,726,247900
+Chlamydia,Sonoma,2017,Total,2040,503634
+Chlamydia,Sonoma,2018,Female,1467,254444
+Chlamydia,Sonoma,2018,Male,805,246983
+Chlamydia,Sonoma,2018,Total,2277,501427
+Chlamydia,Stanislaus,2015,Female,1850,271370
+Chlamydia,Stanislaus,2015,Male,647,266504
+Chlamydia,Stanislaus,2015,Total,2499,537874
+Chlamydia,Stanislaus,2016,Female,1697,274108
+Chlamydia,Stanislaus,2016,Male,687,269453
+Chlamydia,Stanislaus,2016,Total,2387,543561
+Chlamydia,Stanislaus,2017,Female,1764,277550
+Chlamydia,Stanislaus,2017,Male,765,272955
+Chlamydia,Stanislaus,2017,Total,2535,550505
+Chlamydia,Stanislaus,2018,Female,2044,279560
+Chlamydia,Stanislaus,2018,Male,865,275143
+Chlamydia,Stanislaus,2018,Total,2917,554703
+Chlamydia,Sutter,2015,Female,229,48877
+Chlamydia,Sutter,2015,Male,83,48464
+Chlamydia,Sutter,2015,Total,312,97341
+Chlamydia,Sutter,2016,Female,231,49163
+Chlamydia,Sutter,2016,Male,98,48773
+Chlamydia,Sutter,2016,Total,329,97936
+Chlamydia,Sutter,2017,Female,250,49328
+Chlamydia,Sutter,2017,Male,107,49014
+Chlamydia,Sutter,2017,Total,358,98342
+Chlamydia,Sutter,2018,Female,240,49496
+Chlamydia,Sutter,2018,Male,108,49239
+Chlamydia,Sutter,2018,Total,352,98735
+Chlamydia,Tehama,2015,Female,143,32273
+Chlamydia,Tehama,2015,Male,55,31840
+Chlamydia,Tehama,2015,Total,198,64113
+Chlamydia,Tehama,2016,Female,190,32407
+Chlamydia,Tehama,2016,Male,57,31929
+Chlamydia,Tehama,2016,Total,247,64336
+Chlamydia,Tehama,2017,Female,155,32464
+Chlamydia,Tehama,2017,Male,65,31943
+Chlamydia,Tehama,2017,Total,225,64407
+Chlamydia,Tehama,2018,Female,131,32540
+Chlamydia,Tehama,2018,Male,54,31992
+Chlamydia,Tehama,2018,Total,191,64532
+Chlamydia,Trinity,2015,Female,NA,6613
+Chlamydia,Trinity,2015,Male,NA,6943
+Chlamydia,Trinity,2015,Total,26,13556
+Chlamydia,Trinity,2016,Female,NA,6590
+Chlamydia,Trinity,2016,Male,NA,6899
+Chlamydia,Trinity,2016,Total,28,13489
+Chlamydia,Trinity,2017,Female,NA,6590
+Chlamydia,Trinity,2017,Male,NA,6863
+Chlamydia,Trinity,2017,Total,14,13453
+Chlamydia,Trinity,2018,Female,NA,6573
+Chlamydia,Trinity,2018,Male,NA,6834
+Chlamydia,Trinity,2018,Total,21,13407
+Chlamydia,Tulare,2015,Female,1626,231929
+Chlamydia,Tulare,2015,Male,535,232638
+Chlamydia,Tulare,2015,Total,2162,464567
+Chlamydia,Tulare,2016,Female,1866,233743
+Chlamydia,Tulare,2016,Male,757,234489
+Chlamydia,Tulare,2016,Total,2630,468232
+Chlamydia,Tulare,2017,Female,1805,235666
+Chlamydia,Tulare,2017,Male,747,236750
+Chlamydia,Tulare,2017,Total,2560,472416
+Chlamydia,Tulare,2018,Female,1896,237773
+Chlamydia,Tulare,2018,Male,712,239136
+Chlamydia,Tulare,2018,Total,2610,476909
+Chlamydia,Tuolumne,2015,Female,67,25722
+Chlamydia,Tuolumne,2015,Male,36,27809
+Chlamydia,Tuolumne,2015,Total,103,53531
+Chlamydia,Tuolumne,2016,Female,88,25624
+Chlamydia,Tuolumne,2016,Male,50,27667
+Chlamydia,Tuolumne,2016,Total,139,53291
+Chlamydia,Tuolumne,2017,Female,90,25398
+Chlamydia,Tuolumne,2017,Male,54,27464
+Chlamydia,Tuolumne,2017,Total,144,52862
+Chlamydia,Tuolumne,2018,Female,106,25402
+Chlamydia,Tuolumne,2018,Male,47,27388
+Chlamydia,Tuolumne,2018,Total,154,52790
+Chlamydia,Ventura,2015,Female,1876,428479
+Chlamydia,Ventura,2015,Male,830,424299
+Chlamydia,Ventura,2015,Total,2710,852778
+Chlamydia,Ventura,2016,Female,1778,428874
+Chlamydia,Ventura,2016,Male,813,425027
+Chlamydia,Ventura,2016,Total,2598,853901
+Chlamydia,Ventura,2017,Female,1954,429274
+Chlamydia,Ventura,2017,Male,881,425713
+Chlamydia,Ventura,2017,Total,2848,854987
+Chlamydia,Ventura,2018,Female,2117,429344
+Chlamydia,Ventura,2018,Male,887,426145
+Chlamydia,Ventura,2018,Total,3018,855489
+Chlamydia,Yolo,2015,Female,585,109141
+Chlamydia,Yolo,2015,Male,232,103875
+Chlamydia,Yolo,2015,Total,817,213016
+Chlamydia,Yolo,2016,Female,632,111192
+Chlamydia,Yolo,2016,Male,327,105642
+Chlamydia,Yolo,2016,Total,959,216834
+Chlamydia,Yolo,2017,Female,708,112773
+Chlamydia,Yolo,2017,Male,368,106985
+Chlamydia,Yolo,2017,Total,1076,219758
+Chlamydia,Yolo,2018,Female,719,113555
+Chlamydia,Yolo,2018,Male,357,108002
+Chlamydia,Yolo,2018,Total,1076,221557
+Chlamydia,Yuba,2015,Female,187,36971
+Chlamydia,Yuba,2015,Male,85,37558
+Chlamydia,Yuba,2015,Total,272,74529
+Chlamydia,Yuba,2016,Female,173,37431
+Chlamydia,Yuba,2016,Male,83,37998
+Chlamydia,Yuba,2016,Total,256,75429
+Chlamydia,Yuba,2017,Female,205,38063
+Chlamydia,Yuba,2017,Male,97,38704
+Chlamydia,Yuba,2017,Total,306,76767
+Chlamydia,Yuba,2018,Female,212,38451
+Chlamydia,Yuba,2018,Male,140,39043
+Chlamydia,Yuba,2018,Total,354,77494
+Early Syphilis,California,2015,Female,882,19634752
+Early Syphilis,California,2015,Male,8522,19441376
+Early Syphilis,California,2015,Total,9412,39076128
+Early Syphilis,California,2016,Female,1330,19758238
+Early Syphilis,California,2016,Male,9906,19570099
+Early Syphilis,California,2016,Total,11244,39328337
+Early Syphilis,California,2017,Female,1726,19891334
+Early Syphilis,California,2017,Male,11993,19719222
+Early Syphilis,California,2017,Total,13728,39610556
+Early Syphilis,California,2018,Female,2301,19989903
+Early Syphilis,California,2018,Male,13057,19835278
+Early Syphilis,California,2018,Total,15368,39825181
+Early Syphilis,Alameda,2015,Female,21,825325
+Early Syphilis,Alameda,2015,Male,256,796390
+Early Syphilis,Alameda,2015,Total,277,1621715
+Early Syphilis,Alameda,2016,Female,26,833118
+Early Syphilis,Alameda,2016,Male,313,804648
+Early Syphilis,Alameda,2016,Total,341,1637766
+Early Syphilis,Alameda,2017,Female,48,839632
+Early Syphilis,Alameda,2017,Male,388,811687
+Early Syphilis,Alameda,2017,Total,436,1651319
+Early Syphilis,Alameda,2018,Female,33,845084
+Early Syphilis,Alameda,2018,Male,404,817691
+Early Syphilis,Alameda,2018,Total,438,1662775
+Early Syphilis,Alpine,2015,Female,0,561
+Early Syphilis,Alpine,2015,Male,0,593
+Early Syphilis,Alpine,2015,Total,0,1154
+Early Syphilis,Alpine,2016,Female,0,558
+Early Syphilis,Alpine,2016,Male,0,593
+Early Syphilis,Alpine,2016,Total,0,1151
+Early Syphilis,Alpine,2017,Female,0,558
+Early Syphilis,Alpine,2017,Male,0,588
+Early Syphilis,Alpine,2017,Total,0,1146
+Early Syphilis,Alpine,2018,Female,0,557
+Early Syphilis,Alpine,2018,Male,0,584
+Early Syphilis,Alpine,2018,Total,0,1141
+Early Syphilis,Amador,2015,Female,NA,17062
+Early Syphilis,Amador,2015,Male,NA,19333
+Early Syphilis,Amador,2015,Total,3,36395
+Early Syphilis,Amador,2016,Female,NA,17063
+Early Syphilis,Amador,2016,Male,NA,19799
+Early Syphilis,Amador,2016,Total,4,36862
+Early Syphilis,Amador,2017,Female,NA,17312
+Early Syphilis,Amador,2017,Male,NA,20093
+Early Syphilis,Amador,2017,Total,4,37405
+Early Syphilis,Amador,2018,Female,NA,17610
+Early Syphilis,Amador,2018,Male,NA,20453
+Early Syphilis,Amador,2018,Total,4,38063
+Early Syphilis,Butte,2015,Female,2,112942
+Early Syphilis,Butte,2015,Male,12,111591
+Early Syphilis,Butte,2015,Total,14,224533
+Early Syphilis,Butte,2016,Female,11,113218
+Early Syphilis,Butte,2016,Male,22,111876
+Early Syphilis,Butte,2016,Total,33,225094
+Early Syphilis,Butte,2017,Female,20,113865
+Early Syphilis,Butte,2017,Male,56,112796
+Early Syphilis,Butte,2017,Total,76,226661
+Early Syphilis,Butte,2018,Female,37,114368
+Early Syphilis,Butte,2018,Male,63,113469
+Early Syphilis,Butte,2018,Total,100,227837
+Early Syphilis,Calaveras,2015,Female,NA,22492
+Early Syphilis,Calaveras,2015,Male,NA,22415
+Early Syphilis,Calaveras,2015,Total,5,44907
+Early Syphilis,Calaveras,2016,Female,0,22436
+Early Syphilis,Calaveras,2016,Male,0,22327
+Early Syphilis,Calaveras,2016,Total,0,44763
+Early Syphilis,Calaveras,2017,Female,NA,22403
+Early Syphilis,Calaveras,2017,Male,NA,22253
+Early Syphilis,Calaveras,2017,Total,4,44656
+Early Syphilis,Calaveras,2018,Female,NA,22378
+Early Syphilis,Calaveras,2018,Male,NA,22259
+Early Syphilis,Calaveras,2018,Total,3,44637
+Early Syphilis,Colusa,2015,Female,NA,10864
+Early Syphilis,Colusa,2015,Male,NA,11435
+Early Syphilis,Colusa,2015,Total,2,22299
+Early Syphilis,Colusa,2016,Female,0,10965
+Early Syphilis,Colusa,2016,Male,0,11511
+Early Syphilis,Colusa,2016,Total,0,22476
+Early Syphilis,Colusa,2017,Female,NA,11034
+Early Syphilis,Colusa,2017,Male,NA,11598
+Early Syphilis,Colusa,2017,Total,4,22632
+Early Syphilis,Colusa,2018,Female,NA,11079
+Early Syphilis,Colusa,2018,Male,NA,11665
+Early Syphilis,Colusa,2018,Total,4,22744
+Early Syphilis,Contra Costa,2015,Female,14,571696
+Early Syphilis,Contra Costa,2015,Male,124,546580
+Early Syphilis,Contra Costa,2015,Total,138,1118276
+Early Syphilis,Contra Costa,2016,Female,18,577692
+Early Syphilis,Contra Costa,2016,Male,132,552382
+Early Syphilis,Contra Costa,2016,Total,150,1130074
+Early Syphilis,Contra Costa,2017,Female,10,581487
+Early Syphilis,Contra Costa,2017,Male,184,556714
+Early Syphilis,Contra Costa,2017,Total,194,1138201
+Early Syphilis,Contra Costa,2018,Female,37,585159
+Early Syphilis,Contra Costa,2018,Male,236,560717
+Early Syphilis,Contra Costa,2018,Total,273,1145876
+Early Syphilis,Del Norte,2015,Female,0,12291
+Early Syphilis,Del Norte,2015,Male,0,14834
+Early Syphilis,Del Norte,2015,Total,0,27125
+Early Syphilis,Del Norte,2016,Female,NA,12473
+Early Syphilis,Del Norte,2016,Male,NA,14519
+Early Syphilis,Del Norte,2016,Total,1,26992
+Early Syphilis,Del Norte,2017,Female,NA,12391
+Early Syphilis,Del Norte,2017,Male,NA,14420
+Early Syphilis,Del Norte,2017,Total,1,26811
+Early Syphilis,Del Norte,2018,Female,NA,12608
+Early Syphilis,Del Norte,2018,Male,NA,14667
+Early Syphilis,Del Norte,2018,Total,6,27275
+Early Syphilis,El Dorado,2015,Female,2,91357
+Early Syphilis,El Dorado,2015,Male,6,92001
+Early Syphilis,El Dorado,2015,Total,8,183358
+Early Syphilis,El Dorado,2016,Female,2,91777
+Early Syphilis,El Dorado,2016,Male,5,92558
+Early Syphilis,El Dorado,2016,Total,7,184335
+Early Syphilis,El Dorado,2017,Female,1,92825
+Early Syphilis,El Dorado,2017,Male,12,93731
+Early Syphilis,El Dorado,2017,Total,13,186556
+Early Syphilis,El Dorado,2018,Female,1,94004
+Early Syphilis,El Dorado,2018,Male,8,94989
+Early Syphilis,El Dorado,2018,Total,9,188993
+Early Syphilis,Fresno,2015,Female,163,490514
+Early Syphilis,Fresno,2015,Male,211,489702
+Early Syphilis,Fresno,2015,Total,374,980216
+Early Syphilis,Fresno,2016,Female,272,494729
+Early Syphilis,Fresno,2016,Male,367,494256
+Early Syphilis,Fresno,2016,Total,639,988985
+Early Syphilis,Fresno,2017,Female,206,500034
+Early Syphilis,Fresno,2017,Male,329,500109
+Early Syphilis,Fresno,2017,Total,535,1000143
+Early Syphilis,Fresno,2018,Female,121,505122
+Early Syphilis,Fresno,2018,Male,247,505804
+Early Syphilis,Fresno,2018,Total,368,1010926
+Early Syphilis,Glenn,2015,Female,0,14308
+Early Syphilis,Glenn,2015,Male,0,14657
+Early Syphilis,Glenn,2015,Total,0,28965
+Early Syphilis,Glenn,2016,Female,NA,14362
+Early Syphilis,Glenn,2016,Male,NA,14706
+Early Syphilis,Glenn,2016,Total,2,29068
+Early Syphilis,Glenn,2017,Female,NA,14431
+Early Syphilis,Glenn,2017,Male,NA,14774
+Early Syphilis,Glenn,2017,Total,3,29205
+Early Syphilis,Glenn,2018,Female,NA,14487
+Early Syphilis,Glenn,2018,Male,NA,14850
+Early Syphilis,Glenn,2018,Total,5,29337
+Early Syphilis,Humboldt,2015,Female,1,67323
+Early Syphilis,Humboldt,2015,Male,0,67852
+Early Syphilis,Humboldt,2015,Total,1,135175
+Early Syphilis,Humboldt,2016,Female,1,67755
+Early Syphilis,Humboldt,2016,Male,11,68223
+Early Syphilis,Humboldt,2016,Total,12,135978
+Early Syphilis,Humboldt,2017,Female,5,67679
+Early Syphilis,Humboldt,2017,Male,27,68186
+Early Syphilis,Humboldt,2017,Total,32,135865
+Early Syphilis,Humboldt,2018,Female,7,67565
+Early Syphilis,Humboldt,2018,Male,21,68062
+Early Syphilis,Humboldt,2018,Total,28,135627
+Early Syphilis,Imperial,2015,Female,2,91100
+Early Syphilis,Imperial,2015,Male,17,93948
+Early Syphilis,Imperial,2015,Total,19,185048
+Early Syphilis,Imperial,2016,Female,7,91841
+Early Syphilis,Imperial,2016,Male,10,94651
+Early Syphilis,Imperial,2016,Total,17,186492
+Early Syphilis,Imperial,2017,Female,7,92549
+Early Syphilis,Imperial,2017,Male,27,95394
+Early Syphilis,Imperial,2017,Total,34,187943
+Early Syphilis,Imperial,2018,Female,9,93270
+Early Syphilis,Imperial,2018,Male,22,96198
+Early Syphilis,Imperial,2018,Total,31,189468
+Early Syphilis,Inyo,2015,Female,0,9226
+Early Syphilis,Inyo,2015,Male,0,9409
+Early Syphilis,Inyo,2015,Total,0,18635
+Early Syphilis,Inyo,2016,Female,NA,9225
+Early Syphilis,Inyo,2016,Male,NA,9403
+Early Syphilis,Inyo,2016,Total,2,18628
+Early Syphilis,Inyo,2017,Female,0,9202
+Early Syphilis,Inyo,2017,Male,0,9364
+Early Syphilis,Inyo,2017,Total,0,18566
+Early Syphilis,Inyo,2018,Female,0,9165
+Early Syphilis,Inyo,2018,Male,0,9361
+Early Syphilis,Inyo,2018,Total,0,18526
+Early Syphilis,Kern,2015,Female,83,430266
+Early Syphilis,Kern,2015,Male,169,453533
+Early Syphilis,Kern,2015,Total,252,883799
+Early Syphilis,Kern,2016,Female,148,432856
+Early Syphilis,Kern,2016,Male,226,455352
+Early Syphilis,Kern,2016,Total,374,888208
+Early Syphilis,Kern,2017,Female,147,437639
+Early Syphilis,Kern,2017,Male,290,460310
+Early Syphilis,Kern,2017,Total,437,897949
+Early Syphilis,Kern,2018,Female,177,442149
+Early Syphilis,Kern,2018,Male,304,465369
+Early Syphilis,Kern,2018,Total,481,907518
+Early Syphilis,Kings,2015,Female,13,67827
+Early Syphilis,Kings,2015,Male,27,82079
+Early Syphilis,Kings,2015,Total,40,149906
+Early Syphilis,Kings,2016,Female,5,67801
+Early Syphilis,Kings,2016,Male,24,81511
+Early Syphilis,Kings,2016,Total,29,149312
+Early Syphilis,Kings,2017,Female,28,68546
+Early Syphilis,Kings,2017,Male,42,82446
+Early Syphilis,Kings,2017,Total,70,150992
+Early Syphilis,Kings,2018,Female,33,69664
+Early Syphilis,Kings,2018,Male,35,83876
+Early Syphilis,Kings,2018,Total,68,153540
+Early Syphilis,Lake,2015,Female,0,32411
+Early Syphilis,Lake,2015,Male,4,32448
+Early Syphilis,Lake,2015,Total,4,64859
+Early Syphilis,Lake,2016,Female,0,32311
+Early Syphilis,Lake,2016,Male,4,32273
+Early Syphilis,Lake,2016,Total,4,64584
+Early Syphilis,Lake,2017,Female,1,32535
+Early Syphilis,Lake,2017,Male,6,32395
+Early Syphilis,Lake,2017,Total,7,64930
+Early Syphilis,Lake,2018,Female,6,32690
+Early Syphilis,Lake,2018,Male,4,32480
+Early Syphilis,Lake,2018,Total,10,65170
+Early Syphilis,Lassen,2015,Female,NA,11667
+Early Syphilis,Lassen,2015,Male,NA,19320
+Early Syphilis,Lassen,2015,Total,1,30987
+Early Syphilis,Lassen,2016,Female,0,11532
+Early Syphilis,Lassen,2016,Male,0,19062
+Early Syphilis,Lassen,2016,Total,0,30594
+Early Syphilis,Lassen,2017,Female,NA,11556
+Early Syphilis,Lassen,2017,Male,NA,19048
+Early Syphilis,Lassen,2017,Total,2,30604
+Early Syphilis,Lassen,2018,Female,0,11559
+Early Syphilis,Lassen,2018,Male,0,19004
+Early Syphilis,Lassen,2018,Total,0,30563
+Early Syphilis,Los Angeles,2015,Female,212,5153697
+Early Syphilis,Los Angeles,2015,Male,3272,5027369
+Early Syphilis,Los Angeles,2015,Total,3484,10181066
+Early Syphilis,Los Angeles,2016,Female,265,5169943
+Early Syphilis,Los Angeles,2016,Male,3762,5045264
+Early Syphilis,Los Angeles,2016,Total,4028,10215207
+Early Syphilis,Los Angeles,2017,Female,338,5191338
+Early Syphilis,Los Angeles,2017,Male,4442,5070398
+Early Syphilis,Los Angeles,2017,Total,4781,10261736
+Early Syphilis,Los Angeles,2018,Female,501,5197594
+Early Syphilis,Los Angeles,2018,Male,5126,5081242
+Early Syphilis,Los Angeles,2018,Total,5627,10278836
+Early Syphilis,Madera,2015,Female,10,79903
+Early Syphilis,Madera,2015,Male,16,74801
+Early Syphilis,Madera,2015,Total,26,154704
+Early Syphilis,Madera,2016,Female,19,80181
+Early Syphilis,Madera,2016,Male,24,75203
+Early Syphilis,Madera,2016,Total,43,155384
+Early Syphilis,Madera,2017,Female,23,80884
+Early Syphilis,Madera,2017,Male,27,76031
+Early Syphilis,Madera,2017,Total,50,156915
+Early Syphilis,Madera,2018,Female,26,81519
+Early Syphilis,Madera,2018,Male,37,76740
+Early Syphilis,Madera,2018,Total,63,158259
+Early Syphilis,Marin,2015,Female,1,132819
+Early Syphilis,Marin,2015,Male,25,128822
+Early Syphilis,Marin,2015,Total,26,261641
+Early Syphilis,Marin,2016,Female,3,132998
+Early Syphilis,Marin,2016,Male,31,129497
+Early Syphilis,Marin,2016,Total,34,262495
+Early Syphilis,Marin,2017,Female,1,132721
+Early Syphilis,Marin,2017,Male,37,129371
+Early Syphilis,Marin,2017,Total,38,262092
+Early Syphilis,Marin,2018,Female,1,132644
+Early Syphilis,Marin,2018,Male,26,129580
+Early Syphilis,Marin,2018,Total,27,262224
+Early Syphilis,Mariposa,2015,Female,NA,8937
+Early Syphilis,Mariposa,2015,Male,NA,9149
+Early Syphilis,Mariposa,2015,Total,2,18086
+Early Syphilis,Mariposa,2016,Female,NA,8944
+Early Syphilis,Mariposa,2016,Male,NA,9122
+Early Syphilis,Mariposa,2016,Total,2,18066
+Early Syphilis,Mariposa,2017,Female,NA,8934
+Early Syphilis,Mariposa,2017,Male,NA,9058
+Early Syphilis,Mariposa,2017,Total,2,17992
+Early Syphilis,Mariposa,2018,Female,NA,8909
+Early Syphilis,Mariposa,2018,Male,NA,9009
+Early Syphilis,Mariposa,2018,Total,1,17918
+Early Syphilis,Mendocino,2015,Female,1,44038
+Early Syphilis,Mendocino,2015,Male,7,44277
+Early Syphilis,Mendocino,2015,Total,8,88315
+Early Syphilis,Mendocino,2016,Female,0,44280
+Early Syphilis,Mendocino,2016,Male,3,44486
+Early Syphilis,Mendocino,2016,Total,3,88766
+Early Syphilis,Mendocino,2017,Female,0,44449
+Early Syphilis,Mendocino,2017,Male,6,44622
+Early Syphilis,Mendocino,2017,Total,6,89071
+Early Syphilis,Mendocino,2018,Female,6,44413
+Early Syphilis,Mendocino,2018,Male,8,44614
+Early Syphilis,Mendocino,2018,Total,14,89027
+Early Syphilis,Merced,2015,Female,6,133757
+Early Syphilis,Merced,2015,Male,20,136160
+Early Syphilis,Merced,2015,Total,26,269917
+Early Syphilis,Merced,2016,Female,3,134997
+Early Syphilis,Merced,2016,Male,17,137271
+Early Syphilis,Merced,2016,Total,20,272268
+Early Syphilis,Merced,2017,Female,23,137083
+Early Syphilis,Merced,2017,Male,45,139528
+Early Syphilis,Merced,2017,Total,68,276611
+Early Syphilis,Merced,2018,Female,35,139076
+Early Syphilis,Merced,2018,Male,76,141696
+Early Syphilis,Merced,2018,Total,111,280772
+Early Syphilis,Modoc,2015,Female,0,4786
+Early Syphilis,Modoc,2015,Male,0,4756
+Early Syphilis,Modoc,2015,Total,0,9542
+Early Syphilis,Modoc,2016,Female,0,4768
+Early Syphilis,Modoc,2016,Male,0,4734
+Early Syphilis,Modoc,2016,Total,0,9502
+Early Syphilis,Modoc,2017,Female,0,4766
+Early Syphilis,Modoc,2017,Male,0,4722
+Early Syphilis,Modoc,2017,Total,0,9488
+Early Syphilis,Modoc,2018,Female,0,4780
+Early Syphilis,Modoc,2018,Male,0,4725
+Early Syphilis,Modoc,2018,Total,0,9505
+Early Syphilis,Mono,2015,Female,NA,6533
+Early Syphilis,Mono,2015,Male,NA,7355
+Early Syphilis,Mono,2015,Total,2,13888
+Early Syphilis,Mono,2016,Female,NA,6500
+Early Syphilis,Mono,2016,Male,NA,7305
+Early Syphilis,Mono,2016,Total,2,13805
+Early Syphilis,Mono,2017,Female,0,6518
+Early Syphilis,Mono,2017,Male,0,7328
+Early Syphilis,Mono,2017,Total,0,13846
+Early Syphilis,Mono,2018,Female,NA,6547
+Early Syphilis,Mono,2018,Male,NA,7340
+Early Syphilis,Mono,2018,Total,1,13887
+Early Syphilis,Monterey,2015,Female,3,211863
+Early Syphilis,Monterey,2015,Male,53,223480
+Early Syphilis,Monterey,2015,Total,56,435343
+Early Syphilis,Monterey,2016,Female,4,213886
+Early Syphilis,Monterey,2016,Male,41,225853
+Early Syphilis,Monterey,2016,Total,45,439739
+Early Syphilis,Monterey,2017,Female,3,215038
+Early Syphilis,Monterey,2017,Male,68,227158
+Early Syphilis,Monterey,2017,Total,71,442196
+Early Syphilis,Monterey,2018,Female,13,215824
+Early Syphilis,Monterey,2018,Male,57,227995
+Early Syphilis,Monterey,2018,Total,70,443819
+Early Syphilis,Napa,2015,Female,0,70808
+Early Syphilis,Napa,2015,Male,11,70435
+Early Syphilis,Napa,2015,Total,11,141243
+Early Syphilis,Napa,2016,Female,3,70894
+Early Syphilis,Napa,2016,Male,22,70630
+Early Syphilis,Napa,2016,Total,25,141524
+Early Syphilis,Napa,2017,Female,0,70673
+Early Syphilis,Napa,2017,Male,11,70532
+Early Syphilis,Napa,2017,Total,11,141205
+Early Syphilis,Napa,2018,Female,4,70328
+Early Syphilis,Napa,2018,Male,27,70163
+Early Syphilis,Napa,2018,Total,31,140491
+Early Syphilis,Nevada,2015,Female,0,49621
+Early Syphilis,Nevada,2015,Male,3,48590
+Early Syphilis,Nevada,2015,Total,3,98211
+Early Syphilis,Nevada,2016,Female,1,49662
+Early Syphilis,Nevada,2016,Male,7,48686
+Early Syphilis,Nevada,2016,Total,8,98348
+Early Syphilis,Nevada,2017,Female,2,49777
+Early Syphilis,Nevada,2017,Male,5,48777
+Early Syphilis,Nevada,2017,Total,7,98554
+Early Syphilis,Nevada,2018,Female,5,49835
+Early Syphilis,Nevada,2018,Male,5,48884
+Early Syphilis,Nevada,2018,Total,10,98719
+Early Syphilis,Orange,2015,Female,31,1595120
+Early Syphilis,Orange,2015,Male,426,1569110
+Early Syphilis,Orange,2015,Total,457,3164230
+Early Syphilis,Orange,2016,Female,28,1603499
+Early Syphilis,Orange,2016,Male,527,1578155
+Early Syphilis,Orange,2016,Total,555,3181654
+Early Syphilis,Orange,2017,Female,33,1614708
+Early Syphilis,Orange,2017,Male,655,1591147
+Early Syphilis,Orange,2017,Total,688,3205855
+Early Syphilis,Orange,2018,Female,62,1619377
+Early Syphilis,Orange,2018,Male,710,1597440
+Early Syphilis,Orange,2018,Total,772,3216817
+Early Syphilis,Placer,2015,Female,1,189327
+Early Syphilis,Placer,2015,Male,22,182221
+Early Syphilis,Placer,2015,Total,23,371548
+Early Syphilis,Placer,2016,Female,1,191794
+Early Syphilis,Placer,2016,Male,27,184795
+Early Syphilis,Placer,2016,Total,28,376589
+Early Syphilis,Placer,2017,Female,4,194890
+Early Syphilis,Placer,2017,Male,30,188087
+Early Syphilis,Placer,2017,Total,34,382977
+Early Syphilis,Placer,2018,Female,3,197781
+Early Syphilis,Placer,2018,Male,25,191266
+Early Syphilis,Placer,2018,Total,29,389047
+Early Syphilis,Plumas,2015,Female,0,9831
+Early Syphilis,Plumas,2015,Male,0,9801
+Early Syphilis,Plumas,2015,Total,0,19632
+Early Syphilis,Plumas,2016,Female,0,9815
+Early Syphilis,Plumas,2016,Male,0,9775
+Early Syphilis,Plumas,2016,Total,0,19590
+Early Syphilis,Plumas,2017,Female,0,9785
+Early Syphilis,Plumas,2017,Male,0,9765
+Early Syphilis,Plumas,2017,Total,0,19550
+Early Syphilis,Plumas,2018,Female,NA,9771
+Early Syphilis,Plumas,2018,Male,NA,9746
+Early Syphilis,Plumas,2018,Total,1,19517
+Early Syphilis,Riverside,2015,Female,13,1173164
+Early Syphilis,Riverside,2015,Male,400,1160995
+Early Syphilis,Riverside,2015,Total,413,2334159
+Early Syphilis,Riverside,2016,Female,26,1187187
+Early Syphilis,Riverside,2016,Male,482,1175084
+Early Syphilis,Riverside,2016,Total,508,2362271
+Early Syphilis,Riverside,2017,Female,45,1202109
+Early Syphilis,Riverside,2017,Male,505,1190402
+Early Syphilis,Riverside,2017,Total,550,2392511
+Early Syphilis,Riverside,2018,Female,84,1215557
+Early Syphilis,Riverside,2018,Male,571,1204340
+Early Syphilis,Riverside,2018,Total,655,2419897
+Early Syphilis,Sacramento,2015,Female,40,758822
+Early Syphilis,Sacramento,2015,Male,297,731203
+Early Syphilis,Sacramento,2015,Total,337,1490025
+Early Syphilis,Sacramento,2016,Female,46,766124
+Early Syphilis,Sacramento,2016,Male,295,739070
+Early Syphilis,Sacramento,2016,Total,341,1505194
+Early Syphilis,Sacramento,2017,Female,70,773158
+Early Syphilis,Sacramento,2017,Male,386,747527
+Early Syphilis,Sacramento,2017,Total,456,1520685
+Early Syphilis,Sacramento,2018,Female,164,779809
+Early Syphilis,Sacramento,2018,Male,469,755084
+Early Syphilis,Sacramento,2018,Total,633,1534893
+Early Syphilis,San Benito,2015,Female,0,29382
+Early Syphilis,San Benito,2015,Male,7,29291
+Early Syphilis,San Benito,2015,Total,7,58673
+Early Syphilis,San Benito,2016,Female,1,29824
+Early Syphilis,San Benito,2016,Male,4,29726
+Early Syphilis,San Benito,2016,Total,5,59550
+Early Syphilis,San Benito,2017,Female,1,30223
+Early Syphilis,San Benito,2017,Male,4,30068
+Early Syphilis,San Benito,2017,Total,5,60291
+Early Syphilis,San Benito,2018,Female,0,30694
+Early Syphilis,San Benito,2018,Male,6,30566
+Early Syphilis,San Benito,2018,Total,6,61260
+Early Syphilis,San Bernardino,2015,Female,28,1071599
+Early Syphilis,San Bernardino,2015,Male,214,1058476
+Early Syphilis,San Bernardino,2015,Total,242,2130075
+Early Syphilis,San Bernardino,2016,Female,56,1079142
+Early Syphilis,San Bernardino,2016,Male,261,1065725
+Early Syphilis,San Bernardino,2016,Total,317,2144867
+Early Syphilis,San Bernardino,2017,Female,96,1088247
+Early Syphilis,San Bernardino,2017,Male,381,1075314
+Early Syphilis,San Bernardino,2017,Total,477,2163561
+Early Syphilis,San Bernardino,2018,Female,140,1095268
+Early Syphilis,San Bernardino,2018,Male,431,1083224
+Early Syphilis,San Bernardino,2018,Total,571,2178492
+Early Syphilis,San Diego,2015,Female,31,1629486
+Early Syphilis,San Diego,2015,Male,811,1646411
+Early Syphilis,San Diego,2015,Total,842,3275897
+Early Syphilis,San Diego,2016,Female,41,1640100
+Early Syphilis,San Diego,2016,Male,951,1657102
+Early Syphilis,San Diego,2016,Total,992,3297202
+Early Syphilis,San Diego,2017,Female,47,1650959
+Early Syphilis,San Diego,2017,Male,1092,1669428
+Early Syphilis,San Diego,2017,Total,1139,3320387
+Early Syphilis,San Diego,2018,Female,61,1662322
+Early Syphilis,San Diego,2018,Male,1029,1682108
+Early Syphilis,San Diego,2018,Total,1090,3344430
+Early Syphilis,San Francisco,2015,Female,31,426743
+Early Syphilis,San Francisco,2015,Male,1194,438199
+Early Syphilis,San Francisco,2015,Total,1232,864942
+Early Syphilis,San Francisco,2016,Female,32,430874
+Early Syphilis,San Francisco,2016,Male,1109,442002
+Early Syphilis,San Francisco,2016,Total,1146,872876
+Early Syphilis,San Francisco,2017,Female,28,434960
+Early Syphilis,San Francisco,2017,Male,1389,445995
+Early Syphilis,San Francisco,2017,Total,1424,880955
+Early Syphilis,San Francisco,2018,Female,71,438348
+Early Syphilis,San Francisco,2018,Male,1333,449192
+Early Syphilis,San Francisco,2018,Total,1410,887540
+Early Syphilis,San Joaquin,2015,Female,60,365111
+Early Syphilis,San Joaquin,2015,Male,138,363361
+Early Syphilis,San Joaquin,2015,Total,198,728472
+Early Syphilis,San Joaquin,2016,Female,149,369995
+Early Syphilis,San Joaquin,2016,Male,281,368766
+Early Syphilis,San Joaquin,2016,Total,430,738761
+Early Syphilis,San Joaquin,2017,Female,303,375315
+Early Syphilis,San Joaquin,2017,Male,383,374495
+Early Syphilis,San Joaquin,2017,Total,686,749810
+Early Syphilis,San Joaquin,2018,Female,290,379888
+Early Syphilis,San Joaquin,2018,Male,318,379298
+Early Syphilis,San Joaquin,2018,Total,608,759186
+Early Syphilis,San Luis Obispo,2015,Female,2,135507
+Early Syphilis,San Luis Obispo,2015,Male,18,141352
+Early Syphilis,San Luis Obispo,2015,Total,20,276859
+Early Syphilis,San Luis Obispo,2016,Female,3,136054
+Early Syphilis,San Luis Obispo,2016,Male,20,142310
+Early Syphilis,San Luis Obispo,2016,Total,23,278364
+Early Syphilis,San Luis Obispo,2017,Female,2,136199
+Early Syphilis,San Luis Obispo,2017,Male,20,142481
+Early Syphilis,San Luis Obispo,2017,Total,22,278680
+Early Syphilis,San Luis Obispo,2018,Female,3,136515
+Early Syphilis,San Luis Obispo,2018,Male,26,142855
+Early Syphilis,San Luis Obispo,2018,Total,29,279370
+Early Syphilis,San Mateo,2015,Female,7,387979
+Early Syphilis,San Mateo,2015,Male,90,376871
+Early Syphilis,San Mateo,2015,Total,97,764850
+Early Syphilis,San Mateo,2016,Female,4,389713
+Early Syphilis,San Mateo,2016,Male,109,378860
+Early Syphilis,San Mateo,2016,Total,113,768573
+Early Syphilis,San Mateo,2017,Female,6,391068
+Early Syphilis,San Mateo,2017,Male,118,380834
+Early Syphilis,San Mateo,2017,Total,124,771902
+Early Syphilis,San Mateo,2018,Female,5,391861
+Early Syphilis,San Mateo,2018,Male,146,382298
+Early Syphilis,San Mateo,2018,Total,151,774159
+Early Syphilis,Santa Barbara,2015,Female,7,220439
+Early Syphilis,Santa Barbara,2015,Male,55,224094
+Early Syphilis,Santa Barbara,2015,Total,62,444533
+Early Syphilis,Santa Barbara,2016,Female,11,221905
+Early Syphilis,Santa Barbara,2016,Male,43,225481
+Early Syphilis,Santa Barbara,2016,Total,54,447386
+Early Syphilis,Santa Barbara,2017,Female,11,223181
+Early Syphilis,Santa Barbara,2017,Male,64,226957
+Early Syphilis,Santa Barbara,2017,Total,76,450138
+Early Syphilis,Santa Barbara,2018,Female,10,224571
+Early Syphilis,Santa Barbara,2018,Male,85,228717
+Early Syphilis,Santa Barbara,2018,Total,95,453288
+Early Syphilis,Santa Clara,2015,Female,12,952364
+Early Syphilis,Santa Clara,2015,Male,215,967481
+Early Syphilis,Santa Clara,2015,Total,227,1919845
+Early Syphilis,Santa Clara,2016,Female,37,958727
+Early Syphilis,Santa Clara,2016,Male,316,975048
+Early Syphilis,Santa Clara,2016,Total,353,1933775
+Early Syphilis,Santa Clara,2017,Female,44,963966
+Early Syphilis,Santa Clara,2017,Male,369,981945
+Early Syphilis,Santa Clara,2017,Total,413,1945911
+Early Syphilis,Santa Clara,2018,Female,105,968453
+Early Syphilis,Santa Clara,2018,Male,422,988126
+Early Syphilis,Santa Clara,2018,Total,527,1956579
+Early Syphilis,Santa Cruz,2015,Female,8,137250
+Early Syphilis,Santa Cruz,2015,Male,43,137441
+Early Syphilis,Santa Cruz,2015,Total,51,274691
+Early Syphilis,Santa Cruz,2016,Female,5,137848
+Early Syphilis,Santa Cruz,2016,Male,49,137942
+Early Syphilis,Santa Cruz,2016,Total,54,275790
+Early Syphilis,Santa Cruz,2017,Female,11,137831
+Early Syphilis,Santa Cruz,2017,Male,62,138028
+Early Syphilis,Santa Cruz,2017,Total,73,275859
+Early Syphilis,Santa Cruz,2018,Female,12,137444
+Early Syphilis,Santa Cruz,2018,Male,51,137777
+Early Syphilis,Santa Cruz,2018,Total,63,275221
+Early Syphilis,Shasta,2015,Female,2,90912
+Early Syphilis,Shasta,2015,Male,10,87672
+Early Syphilis,Shasta,2015,Total,12,178584
+Early Syphilis,Shasta,2016,Female,3,90473
+Early Syphilis,Shasta,2016,Male,21,87269
+Early Syphilis,Shasta,2016,Total,24,177742
+Early Syphilis,Shasta,2017,Female,21,90662
+Early Syphilis,Shasta,2017,Male,25,87578
+Early Syphilis,Shasta,2017,Total,46,178240
+Early Syphilis,Shasta,2018,Female,26,90580
+Early Syphilis,Shasta,2018,Male,50,87682
+Early Syphilis,Shasta,2018,Total,76,178262
+Early Syphilis,Sierra,2015,Female,0,1557
+Early Syphilis,Sierra,2015,Male,0,1595
+Early Syphilis,Sierra,2015,Total,0,3152
+Early Syphilis,Sierra,2016,Female,0,1561
+Early Syphilis,Sierra,2016,Male,0,1586
+Early Syphilis,Sierra,2016,Total,0,3147
+Early Syphilis,Sierra,2017,Female,0,1564
+Early Syphilis,Sierra,2017,Male,0,1585
+Early Syphilis,Sierra,2017,Total,0,3149
+Early Syphilis,Sierra,2018,Female,0,1566
+Early Syphilis,Sierra,2018,Male,0,1587
+Early Syphilis,Sierra,2018,Total,0,3153
+Early Syphilis,Siskiyou,2015,Female,NA,22358
+Early Syphilis,Siskiyou,2015,Male,NA,22182
+Early Syphilis,Siskiyou,2015,Total,1,44540
+Early Syphilis,Siskiyou,2016,Female,NA,22303
+Early Syphilis,Siskiyou,2016,Male,NA,22115
+Early Syphilis,Siskiyou,2016,Total,2,44418
+Early Syphilis,Siskiyou,2017,Female,NA,22200
+Early Syphilis,Siskiyou,2017,Male,NA,22040
+Early Syphilis,Siskiyou,2017,Total,3,44240
+Early Syphilis,Siskiyou,2018,Female,NA,22128
+Early Syphilis,Siskiyou,2018,Male,NA,21954
+Early Syphilis,Siskiyou,2018,Total,6,44082
+Early Syphilis,Solano,2015,Female,9,215801
+Early Syphilis,Solano,2015,Male,64,213676
+Early Syphilis,Solano,2015,Total,74,429477
+Early Syphilis,Solano,2016,Female,9,217744
+Early Syphilis,Solano,2016,Male,53,215917
+Early Syphilis,Solano,2016,Total,62,433661
+Early Syphilis,Solano,2017,Female,20,219554
+Early Syphilis,Solano,2017,Male,65,217880
+Early Syphilis,Solano,2017,Total,85,437434
+Early Syphilis,Solano,2018,Female,14,220526
+Early Syphilis,Solano,2018,Male,104,218946
+Early Syphilis,Solano,2018,Total,119,439472
+Early Syphilis,Sonoma,2015,Female,6,254646
+Early Syphilis,Sonoma,2015,Male,71,246685
+Early Syphilis,Sonoma,2015,Total,77,501331
+Early Syphilis,Sonoma,2016,Female,1,255677
+Early Syphilis,Sonoma,2016,Male,62,247775
+Early Syphilis,Sonoma,2016,Total,63,503452
+Early Syphilis,Sonoma,2017,Female,15,255734
+Early Syphilis,Sonoma,2017,Male,101,247900
+Early Syphilis,Sonoma,2017,Total,116,503634
+Early Syphilis,Sonoma,2018,Female,44,254444
+Early Syphilis,Sonoma,2018,Male,154,246983
+Early Syphilis,Sonoma,2018,Total,198,501427
+Early Syphilis,Stanislaus,2015,Female,35,271370
+Early Syphilis,Stanislaus,2015,Male,76,266504
+Early Syphilis,Stanislaus,2015,Total,111,537874
+Early Syphilis,Stanislaus,2016,Female,43,274108
+Early Syphilis,Stanislaus,2016,Male,87,269453
+Early Syphilis,Stanislaus,2016,Total,130,543561
+Early Syphilis,Stanislaus,2017,Female,54,277550
+Early Syphilis,Stanislaus,2017,Male,134,272955
+Early Syphilis,Stanislaus,2017,Total,188,550505
+Early Syphilis,Stanislaus,2018,Female,99,279560
+Early Syphilis,Stanislaus,2018,Male,152,275143
+Early Syphilis,Stanislaus,2018,Total,251,554703
+Early Syphilis,Sutter,2015,Female,0,48877
+Early Syphilis,Sutter,2015,Male,3,48464
+Early Syphilis,Sutter,2015,Total,3,97341
+Early Syphilis,Sutter,2016,Female,0,49163
+Early Syphilis,Sutter,2016,Male,6,48773
+Early Syphilis,Sutter,2016,Total,6,97936
+Early Syphilis,Sutter,2017,Female,3,49328
+Early Syphilis,Sutter,2017,Male,4,49014
+Early Syphilis,Sutter,2017,Total,7,98342
+Early Syphilis,Sutter,2018,Female,4,49496
+Early Syphilis,Sutter,2018,Male,14,49239
+Early Syphilis,Sutter,2018,Total,18,98735
+Early Syphilis,Tehama,2015,Female,0,32273
+Early Syphilis,Tehama,2015,Male,1,31840
+Early Syphilis,Tehama,2015,Total,1,64113
+Early Syphilis,Tehama,2016,Female,2,32407
+Early Syphilis,Tehama,2016,Male,3,31929
+Early Syphilis,Tehama,2016,Total,5,64336
+Early Syphilis,Tehama,2017,Female,1,32464
+Early Syphilis,Tehama,2017,Male,4,31943
+Early Syphilis,Tehama,2017,Total,5,64407
+Early Syphilis,Tehama,2018,Female,3,32540
+Early Syphilis,Tehama,2018,Male,5,31992
+Early Syphilis,Tehama,2018,Total,9,64532
+Early Syphilis,Trinity,2015,Female,NA,6613
+Early Syphilis,Trinity,2015,Male,NA,6943
+Early Syphilis,Trinity,2015,Total,1,13556
+Early Syphilis,Trinity,2016,Female,0,6590
+Early Syphilis,Trinity,2016,Male,0,6899
+Early Syphilis,Trinity,2016,Total,0,13489
+Early Syphilis,Trinity,2017,Female,NA,6590
+Early Syphilis,Trinity,2017,Male,NA,6863
+Early Syphilis,Trinity,2017,Total,3,13453
+Early Syphilis,Trinity,2018,Female,NA,6573
+Early Syphilis,Trinity,2018,Male,NA,6834
+Early Syphilis,Trinity,2018,Total,2,13407
+Early Syphilis,Tulare,2015,Female,11,231929
+Early Syphilis,Tulare,2015,Male,40,232638
+Early Syphilis,Tulare,2015,Total,51,464567
+Early Syphilis,Tulare,2016,Female,24,233743
+Early Syphilis,Tulare,2016,Male,75,234489
+Early Syphilis,Tulare,2016,Total,99,468232
+Early Syphilis,Tulare,2017,Female,24,235666
+Early Syphilis,Tulare,2017,Male,47,236750
+Early Syphilis,Tulare,2017,Total,71,472416
+Early Syphilis,Tulare,2018,Female,15,237773
+Early Syphilis,Tulare,2018,Male,30,239136
+Early Syphilis,Tulare,2018,Total,45,476909
+Early Syphilis,Tuolumne,2015,Female,0,25722
+Early Syphilis,Tuolumne,2015,Male,5,27809
+Early Syphilis,Tuolumne,2015,Total,5,53531
+Early Syphilis,Tuolumne,2016,Female,4,25624
+Early Syphilis,Tuolumne,2016,Male,11,27667
+Early Syphilis,Tuolumne,2016,Total,15,53291
+Early Syphilis,Tuolumne,2017,Female,4,25398
+Early Syphilis,Tuolumne,2017,Male,8,27464
+Early Syphilis,Tuolumne,2017,Total,12,52862
+Early Syphilis,Tuolumne,2018,Female,3,25402
+Early Syphilis,Tuolumne,2018,Male,8,27388
+Early Syphilis,Tuolumne,2018,Total,11,52790
+Early Syphilis,Ventura,2015,Female,6,428479
+Early Syphilis,Ventura,2015,Male,47,424299
+Early Syphilis,Ventura,2015,Total,53,852778
+Early Syphilis,Ventura,2016,Female,11,428874
+Early Syphilis,Ventura,2016,Male,44,425027
+Early Syphilis,Ventura,2016,Total,55,853901
+Early Syphilis,Ventura,2017,Female,8,429274
+Early Syphilis,Ventura,2017,Male,86,425713
+Early Syphilis,Ventura,2017,Total,94,854987
+Early Syphilis,Ventura,2018,Female,11,429344
+Early Syphilis,Ventura,2018,Male,130,426145
+Early Syphilis,Ventura,2018,Total,141,855489
+Early Syphilis,Yolo,2015,Female,1,109141
+Early Syphilis,Yolo,2015,Male,32,103875
+Early Syphilis,Yolo,2015,Total,33,213016
+Early Syphilis,Yolo,2016,Female,2,111192
+Early Syphilis,Yolo,2016,Male,30,105642
+Early Syphilis,Yolo,2016,Total,32,216834
+Early Syphilis,Yolo,2017,Female,5,112773
+Early Syphilis,Yolo,2017,Male,31,106985
+Early Syphilis,Yolo,2017,Total,36,219758
+Early Syphilis,Yolo,2018,Female,4,113555
+Early Syphilis,Yolo,2018,Male,45,108002
+Early Syphilis,Yolo,2018,Total,49,221557
+Early Syphilis,Yuba,2015,Female,0,36971
+Early Syphilis,Yuba,2015,Male,0,37558
+Early Syphilis,Yuba,2015,Total,0,74529
+Early Syphilis,Yuba,2016,Female,2,37431
+Early Syphilis,Yuba,2016,Male,5,37998
+Early Syphilis,Yuba,2016,Total,7,75429
+Early Syphilis,Yuba,2017,Female,3,38063
+Early Syphilis,Yuba,2017,Male,6,38704
+Early Syphilis,Yuba,2017,Total,9,76767
+Early Syphilis,Yuba,2018,Female,6,38451
+Early Syphilis,Yuba,2018,Male,14,39043
+Early Syphilis,Yuba,2018,Total,20,77494
+Gonorrhea,California,2015,Female,18402,19634752
+Gonorrhea,California,2015,Male,35682,19441376
+Gonorrhea,California,2015,Total,54174,39076128
+Gonorrhea,California,2016,Female,20897,19758238
+Gonorrhea,California,2016,Male,43345,19570099
+Gonorrhea,California,2016,Total,64564,39328337
+Gonorrhea,California,2017,Female,24529,19891334
+Gonorrhea,California,2017,Male,50567,19719222
+Gonorrhea,California,2017,Total,75268,39610556
+Gonorrhea,California,2018,Female,26426,19989903
+Gonorrhea,California,2018,Male,52758,19835278
+Gonorrhea,California,2018,Total,79397,39825181
+Gonorrhea,Alameda,2015,Female,939,825325
+Gonorrhea,Alameda,2015,Male,1856,796390
+Gonorrhea,Alameda,2015,Total,2799,1621715
+Gonorrhea,Alameda,2016,Female,832,833118
+Gonorrhea,Alameda,2016,Male,2211,804648
+Gonorrhea,Alameda,2016,Total,3047,1637766
+Gonorrhea,Alameda,2017,Female,1026,839632
+Gonorrhea,Alameda,2017,Male,2547,811687
+Gonorrhea,Alameda,2017,Total,3583,1651319
+Gonorrhea,Alameda,2018,Female,1104,845084
+Gonorrhea,Alameda,2018,Male,2641,817691
+Gonorrhea,Alameda,2018,Total,3777,1662775
+Gonorrhea,Alpine,2015,Female,0,561
+Gonorrhea,Alpine,2015,Male,0,593
+Gonorrhea,Alpine,2015,Total,0,1154
+Gonorrhea,Alpine,2016,Female,0,558
+Gonorrhea,Alpine,2016,Male,0,593
+Gonorrhea,Alpine,2016,Total,0,1151
+Gonorrhea,Alpine,2017,Female,0,558
+Gonorrhea,Alpine,2017,Male,0,588
+Gonorrhea,Alpine,2017,Total,0,1146
+Gonorrhea,Alpine,2018,Female,NA,557
+Gonorrhea,Alpine,2018,Male,NA,584
+Gonorrhea,Alpine,2018,Total,1,1141
+Gonorrhea,Amador,2015,Female,NA,17062
+Gonorrhea,Amador,2015,Male,NA,19333
+Gonorrhea,Amador,2015,Total,18,36395
+Gonorrhea,Amador,2016,Female,NA,17063
+Gonorrhea,Amador,2016,Male,NA,19799
+Gonorrhea,Amador,2016,Total,14,36862
+Gonorrhea,Amador,2017,Female,NA,17312
+Gonorrhea,Amador,2017,Male,NA,20093
+Gonorrhea,Amador,2017,Total,20,37405
+Gonorrhea,Amador,2018,Female,NA,17610
+Gonorrhea,Amador,2018,Male,NA,20453
+Gonorrhea,Amador,2018,Total,17,38063
+Gonorrhea,Butte,2015,Female,160,112942
+Gonorrhea,Butte,2015,Male,155,111591
+Gonorrhea,Butte,2015,Total,315,224533
+Gonorrhea,Butte,2016,Female,152,113218
+Gonorrhea,Butte,2016,Male,172,111876
+Gonorrhea,Butte,2016,Total,324,225094
+Gonorrhea,Butte,2017,Female,148,113865
+Gonorrhea,Butte,2017,Male,158,112796
+Gonorrhea,Butte,2017,Total,307,226661
+Gonorrhea,Butte,2018,Female,188,114368
+Gonorrhea,Butte,2018,Male,236,113469
+Gonorrhea,Butte,2018,Total,424,227837
+Gonorrhea,Calaveras,2015,Female,NA,22492
+Gonorrhea,Calaveras,2015,Male,NA,22415
+Gonorrhea,Calaveras,2015,Total,18,44907
+Gonorrhea,Calaveras,2016,Female,NA,22436
+Gonorrhea,Calaveras,2016,Male,NA,22327
+Gonorrhea,Calaveras,2016,Total,13,44763
+Gonorrhea,Calaveras,2017,Female,NA,22403
+Gonorrhea,Calaveras,2017,Male,NA,22253
+Gonorrhea,Calaveras,2017,Total,20,44656
+Gonorrhea,Calaveras,2018,Female,21,22378
+Gonorrhea,Calaveras,2018,Male,19,22259
+Gonorrhea,Calaveras,2018,Total,40,44637
+Gonorrhea,Colusa,2015,Female,NA,10864
+Gonorrhea,Colusa,2015,Male,NA,11435
+Gonorrhea,Colusa,2015,Total,10,22299
+Gonorrhea,Colusa,2016,Female,NA,10965
+Gonorrhea,Colusa,2016,Male,NA,11511
+Gonorrhea,Colusa,2016,Total,14,22476
+Gonorrhea,Colusa,2017,Female,NA,11034
+Gonorrhea,Colusa,2017,Male,NA,11598
+Gonorrhea,Colusa,2017,Total,16,22632
+Gonorrhea,Colusa,2018,Female,NA,11079
+Gonorrhea,Colusa,2018,Male,NA,11665
+Gonorrhea,Colusa,2018,Total,14,22744
+Gonorrhea,Contra Costa,2015,Female,568,571696
+Gonorrhea,Contra Costa,2015,Male,748,546580
+Gonorrhea,Contra Costa,2015,Total,1317,1118276
+Gonorrhea,Contra Costa,2016,Female,644,577692
+Gonorrhea,Contra Costa,2016,Male,935,552382
+Gonorrhea,Contra Costa,2016,Total,1581,1130074
+Gonorrhea,Contra Costa,2017,Female,709,581487
+Gonorrhea,Contra Costa,2017,Male,1053,556714
+Gonorrhea,Contra Costa,2017,Total,1762,1138201
+Gonorrhea,Contra Costa,2018,Female,807,585159
+Gonorrhea,Contra Costa,2018,Male,1238,560717
+Gonorrhea,Contra Costa,2018,Total,2055,1145876
+Gonorrhea,Del Norte,2015,Female,18,12291
+Gonorrhea,Del Norte,2015,Male,15,14834
+Gonorrhea,Del Norte,2015,Total,34,27125
+Gonorrhea,Del Norte,2016,Female,18,12473
+Gonorrhea,Del Norte,2016,Male,17,14519
+Gonorrhea,Del Norte,2016,Total,38,26992
+Gonorrhea,Del Norte,2017,Female,40,12391
+Gonorrhea,Del Norte,2017,Male,27,14420
+Gonorrhea,Del Norte,2017,Total,67,26811
+Gonorrhea,Del Norte,2018,Female,36,12608
+Gonorrhea,Del Norte,2018,Male,28,14667
+Gonorrhea,Del Norte,2018,Total,64,27275
+Gonorrhea,El Dorado,2015,Female,35,91357
+Gonorrhea,El Dorado,2015,Male,44,92001
+Gonorrhea,El Dorado,2015,Total,79,183358
+Gonorrhea,El Dorado,2016,Female,43,91777
+Gonorrhea,El Dorado,2016,Male,51,92558
+Gonorrhea,El Dorado,2016,Total,94,184335
+Gonorrhea,El Dorado,2017,Female,47,92825
+Gonorrhea,El Dorado,2017,Male,57,93731
+Gonorrhea,El Dorado,2017,Total,105,186556
+Gonorrhea,El Dorado,2018,Female,41,94004
+Gonorrhea,El Dorado,2018,Male,53,94989
+Gonorrhea,El Dorado,2018,Total,94,188993
+Gonorrhea,Fresno,2015,Female,900,490514
+Gonorrhea,Fresno,2015,Male,848,489702
+Gonorrhea,Fresno,2015,Total,1751,980216
+Gonorrhea,Fresno,2016,Female,1027,494729
+Gonorrhea,Fresno,2016,Male,959,494256
+Gonorrhea,Fresno,2016,Total,1986,988985
+Gonorrhea,Fresno,2017,Female,1131,500034
+Gonorrhea,Fresno,2017,Male,1116,500109
+Gonorrhea,Fresno,2017,Total,2247,1000143
+Gonorrhea,Fresno,2018,Female,1140,505122
+Gonorrhea,Fresno,2018,Male,1108,505804
+Gonorrhea,Fresno,2018,Total,2250,1010926
+Gonorrhea,Glenn,2015,Female,NA,14308
+Gonorrhea,Glenn,2015,Male,NA,14657
+Gonorrhea,Glenn,2015,Total,25,28965
+Gonorrhea,Glenn,2016,Female,NA,14362
+Gonorrhea,Glenn,2016,Male,NA,14706
+Gonorrhea,Glenn,2016,Total,12,29068
+Gonorrhea,Glenn,2017,Female,NA,14431
+Gonorrhea,Glenn,2017,Male,NA,14774
+Gonorrhea,Glenn,2017,Total,20,29205
+Gonorrhea,Glenn,2018,Female,NA,14487
+Gonorrhea,Glenn,2018,Male,NA,14850
+Gonorrhea,Glenn,2018,Total,16,29337
+Gonorrhea,Humboldt,2015,Female,98,67323
+Gonorrhea,Humboldt,2015,Male,141,67852
+Gonorrhea,Humboldt,2015,Total,239,135175
+Gonorrhea,Humboldt,2016,Female,103,67755
+Gonorrhea,Humboldt,2016,Male,151,68223
+Gonorrhea,Humboldt,2016,Total,254,135978
+Gonorrhea,Humboldt,2017,Female,89,67679
+Gonorrhea,Humboldt,2017,Male,136,68186
+Gonorrhea,Humboldt,2017,Total,225,135865
+Gonorrhea,Humboldt,2018,Female,104,67565
+Gonorrhea,Humboldt,2018,Male,122,68062
+Gonorrhea,Humboldt,2018,Total,227,135627
+Gonorrhea,Imperial,2015,Female,38,91100
+Gonorrhea,Imperial,2015,Male,36,93948
+Gonorrhea,Imperial,2015,Total,74,185048
+Gonorrhea,Imperial,2016,Female,74,91841
+Gonorrhea,Imperial,2016,Male,76,94651
+Gonorrhea,Imperial,2016,Total,150,186492
+Gonorrhea,Imperial,2017,Female,98,92549
+Gonorrhea,Imperial,2017,Male,79,95394
+Gonorrhea,Imperial,2017,Total,177,187943
+Gonorrhea,Imperial,2018,Female,112,93270
+Gonorrhea,Imperial,2018,Male,84,96198
+Gonorrhea,Imperial,2018,Total,197,189468
+Gonorrhea,Inyo,2015,Female,NA,9226
+Gonorrhea,Inyo,2015,Male,NA,9409
+Gonorrhea,Inyo,2015,Total,4,18635
+Gonorrhea,Inyo,2016,Female,NA,9225
+Gonorrhea,Inyo,2016,Male,NA,9403
+Gonorrhea,Inyo,2016,Total,5,18628
+Gonorrhea,Inyo,2017,Female,NA,9202
+Gonorrhea,Inyo,2017,Male,NA,9364
+Gonorrhea,Inyo,2017,Total,8,18566
+Gonorrhea,Inyo,2018,Female,NA,9165
+Gonorrhea,Inyo,2018,Male,NA,9361
+Gonorrhea,Inyo,2018,Total,16,18526
+Gonorrhea,Kern,2015,Female,675,430266
+Gonorrhea,Kern,2015,Male,870,453533
+Gonorrhea,Kern,2015,Total,1545,883799
+Gonorrhea,Kern,2016,Female,763,432856
+Gonorrhea,Kern,2016,Male,1040,455352
+Gonorrhea,Kern,2016,Total,1804,888208
+Gonorrhea,Kern,2017,Female,942,437639
+Gonorrhea,Kern,2017,Male,1309,460310
+Gonorrhea,Kern,2017,Total,2255,897949
+Gonorrhea,Kern,2018,Female,1024,442149
+Gonorrhea,Kern,2018,Male,1292,465369
+Gonorrhea,Kern,2018,Total,2317,907518
+Gonorrhea,Kings,2015,Female,91,67827
+Gonorrhea,Kings,2015,Male,78,82079
+Gonorrhea,Kings,2015,Total,169,149906
+Gonorrhea,Kings,2016,Female,111,67801
+Gonorrhea,Kings,2016,Male,130,81511
+Gonorrhea,Kings,2016,Total,241,149312
+Gonorrhea,Kings,2017,Female,112,68546
+Gonorrhea,Kings,2017,Male,143,82446
+Gonorrhea,Kings,2017,Total,256,150992
+Gonorrhea,Kings,2018,Female,120,69664
+Gonorrhea,Kings,2018,Male,146,83876
+Gonorrhea,Kings,2018,Total,266,153540
+Gonorrhea,Lake,2015,Female,81,32411
+Gonorrhea,Lake,2015,Male,68,32448
+Gonorrhea,Lake,2015,Total,149,64859
+Gonorrhea,Lake,2016,Female,105,32311
+Gonorrhea,Lake,2016,Male,97,32273
+Gonorrhea,Lake,2016,Total,203,64584
+Gonorrhea,Lake,2017,Female,96,32535
+Gonorrhea,Lake,2017,Male,89,32395
+Gonorrhea,Lake,2017,Total,186,64930
+Gonorrhea,Lake,2018,Female,78,32690
+Gonorrhea,Lake,2018,Male,93,32480
+Gonorrhea,Lake,2018,Total,171,65170
+Gonorrhea,Lassen,2015,Female,NA,11667
+Gonorrhea,Lassen,2015,Male,NA,19320
+Gonorrhea,Lassen,2015,Total,9,30987
+Gonorrhea,Lassen,2016,Female,NA,11532
+Gonorrhea,Lassen,2016,Male,NA,19062
+Gonorrhea,Lassen,2016,Total,10,30594
+Gonorrhea,Lassen,2017,Female,NA,11556
+Gonorrhea,Lassen,2017,Male,NA,19048
+Gonorrhea,Lassen,2017,Total,11,30604
+Gonorrhea,Lassen,2018,Female,NA,11559
+Gonorrhea,Lassen,2018,Male,NA,19004
+Gonorrhea,Lassen,2018,Total,18,30563
+Gonorrhea,Los Angeles,2015,Female,4994,5153697
+Gonorrhea,Los Angeles,2015,Male,12594,5027369
+Gonorrhea,Los Angeles,2015,Total,17609,10181066
+Gonorrhea,Los Angeles,2016,Female,6140,5169943
+Gonorrhea,Los Angeles,2016,Male,15960,5045264
+Gonorrhea,Los Angeles,2016,Total,22338,10215207
+Gonorrhea,Los Angeles,2017,Female,7638,5191338
+Gonorrhea,Los Angeles,2017,Male,18413,5070398
+Gonorrhea,Los Angeles,2017,Total,26089,10261736
+Gonorrhea,Los Angeles,2018,Female,7891,5197594
+Gonorrhea,Los Angeles,2018,Male,19400,5081242
+Gonorrhea,Los Angeles,2018,Total,27333,10278836
+Gonorrhea,Madera,2015,Female,97,79903
+Gonorrhea,Madera,2015,Male,61,74801
+Gonorrhea,Madera,2015,Total,159,154704
+Gonorrhea,Madera,2016,Female,102,80181
+Gonorrhea,Madera,2016,Male,76,75203
+Gonorrhea,Madera,2016,Total,178,155384
+Gonorrhea,Madera,2017,Female,126,80884
+Gonorrhea,Madera,2017,Male,98,76031
+Gonorrhea,Madera,2017,Total,225,156915
+Gonorrhea,Madera,2018,Female,156,81519
+Gonorrhea,Madera,2018,Male,125,76740
+Gonorrhea,Madera,2018,Total,282,158259
+Gonorrhea,Marin,2015,Female,55,132819
+Gonorrhea,Marin,2015,Male,109,128822
+Gonorrhea,Marin,2015,Total,164,261641
+Gonorrhea,Marin,2016,Female,49,132998
+Gonorrhea,Marin,2016,Male,110,129497
+Gonorrhea,Marin,2016,Total,159,262495
+Gonorrhea,Marin,2017,Female,69,132721
+Gonorrhea,Marin,2017,Male,149,129371
+Gonorrhea,Marin,2017,Total,219,262092
+Gonorrhea,Marin,2018,Female,54,132644
+Gonorrhea,Marin,2018,Male,145,129580
+Gonorrhea,Marin,2018,Total,200,262224
+Gonorrhea,Mariposa,2015,Female,NA,8937
+Gonorrhea,Mariposa,2015,Male,NA,9149
+Gonorrhea,Mariposa,2015,Total,9,18086
+Gonorrhea,Mariposa,2016,Female,NA,8944
+Gonorrhea,Mariposa,2016,Male,NA,9122
+Gonorrhea,Mariposa,2016,Total,13,18066
+Gonorrhea,Mariposa,2017,Female,NA,8934
+Gonorrhea,Mariposa,2017,Male,NA,9058
+Gonorrhea,Mariposa,2017,Total,8,17992
+Gonorrhea,Mariposa,2018,Female,NA,8909
+Gonorrhea,Mariposa,2018,Male,NA,9009
+Gonorrhea,Mariposa,2018,Total,14,17918
+Gonorrhea,Mendocino,2015,Female,50,44038
+Gonorrhea,Mendocino,2015,Male,40,44277
+Gonorrhea,Mendocino,2015,Total,91,88315
+Gonorrhea,Mendocino,2016,Female,90,44280
+Gonorrhea,Mendocino,2016,Male,75,44486
+Gonorrhea,Mendocino,2016,Total,165,88766
+Gonorrhea,Mendocino,2017,Female,78,44449
+Gonorrhea,Mendocino,2017,Male,74,44622
+Gonorrhea,Mendocino,2017,Total,152,89071
+Gonorrhea,Mendocino,2018,Female,53,44413
+Gonorrhea,Mendocino,2018,Male,62,44614
+Gonorrhea,Mendocino,2018,Total,115,89027
+Gonorrhea,Merced,2015,Female,156,133757
+Gonorrhea,Merced,2015,Male,182,136160
+Gonorrhea,Merced,2015,Total,338,269917
+Gonorrhea,Merced,2016,Female,166,134997
+Gonorrhea,Merced,2016,Male,184,137271
+Gonorrhea,Merced,2016,Total,350,272268
+Gonorrhea,Merced,2017,Female,159,137083
+Gonorrhea,Merced,2017,Male,200,139528
+Gonorrhea,Merced,2017,Total,359,276611
+Gonorrhea,Merced,2018,Female,202,139076
+Gonorrhea,Merced,2018,Male,282,141696
+Gonorrhea,Merced,2018,Total,484,280772
+Gonorrhea,Modoc,2015,Female,0,4786
+Gonorrhea,Modoc,2015,Male,0,4756
+Gonorrhea,Modoc,2015,Total,0,9542
+Gonorrhea,Modoc,2016,Female,NA,4768
+Gonorrhea,Modoc,2016,Male,NA,4734
+Gonorrhea,Modoc,2016,Total,4,9502
+Gonorrhea,Modoc,2017,Female,NA,4766
+Gonorrhea,Modoc,2017,Male,NA,4722
+Gonorrhea,Modoc,2017,Total,2,9488
+Gonorrhea,Modoc,2018,Female,NA,4780
+Gonorrhea,Modoc,2018,Male,NA,4725
+Gonorrhea,Modoc,2018,Total,11,9505
+Gonorrhea,Mono,2015,Female,NA,6533
+Gonorrhea,Mono,2015,Male,NA,7355
+Gonorrhea,Mono,2015,Total,2,13888
+Gonorrhea,Mono,2016,Female,NA,6500
+Gonorrhea,Mono,2016,Male,NA,7305
+Gonorrhea,Mono,2016,Total,2,13805
+Gonorrhea,Mono,2017,Female,NA,6518
+Gonorrhea,Mono,2017,Male,NA,7328
+Gonorrhea,Mono,2017,Total,6,13846
+Gonorrhea,Mono,2018,Female,NA,6547
+Gonorrhea,Mono,2018,Male,NA,7340
+Gonorrhea,Mono,2018,Total,2,13887
+Gonorrhea,Monterey,2015,Female,109,211863
+Gonorrhea,Monterey,2015,Male,195,223480
+Gonorrhea,Monterey,2015,Total,305,435343
+Gonorrhea,Monterey,2016,Female,130,213886
+Gonorrhea,Monterey,2016,Male,214,225853
+Gonorrhea,Monterey,2016,Total,345,439739
+Gonorrhea,Monterey,2017,Female,167,215038
+Gonorrhea,Monterey,2017,Male,250,227158
+Gonorrhea,Monterey,2017,Total,419,442196
+Gonorrhea,Monterey,2018,Female,160,215824
+Gonorrhea,Monterey,2018,Male,267,227995
+Gonorrhea,Monterey,2018,Total,429,443819
+Gonorrhea,Napa,2015,Female,27,70808
+Gonorrhea,Napa,2015,Male,49,70435
+Gonorrhea,Napa,2015,Total,76,141243
+Gonorrhea,Napa,2016,Female,31,70894
+Gonorrhea,Napa,2016,Male,53,70630
+Gonorrhea,Napa,2016,Total,84,141524
+Gonorrhea,Napa,2017,Female,42,70673
+Gonorrhea,Napa,2017,Male,82,70532
+Gonorrhea,Napa,2017,Total,124,141205
+Gonorrhea,Napa,2018,Female,56,70328
+Gonorrhea,Napa,2018,Male,74,70163
+Gonorrhea,Napa,2018,Total,130,140491
+Gonorrhea,Nevada,2015,Female,18,49621
+Gonorrhea,Nevada,2015,Male,26,48590
+Gonorrhea,Nevada,2015,Total,44,98211
+Gonorrhea,Nevada,2016,Female,28,49662
+Gonorrhea,Nevada,2016,Male,38,48686
+Gonorrhea,Nevada,2016,Total,66,98348
+Gonorrhea,Nevada,2017,Female,23,49777
+Gonorrhea,Nevada,2017,Male,38,48777
+Gonorrhea,Nevada,2017,Total,61,98554
+Gonorrhea,Nevada,2018,Female,30,49835
+Gonorrhea,Nevada,2018,Male,26,48884
+Gonorrhea,Nevada,2018,Total,56,98719
+Gonorrhea,Orange,2015,Female,790,1595120
+Gonorrhea,Orange,2015,Male,1525,1569110
+Gonorrhea,Orange,2015,Total,2320,3164230
+Gonorrhea,Orange,2016,Female,940,1603499
+Gonorrhea,Orange,2016,Male,2120,1578155
+Gonorrhea,Orange,2016,Total,3065,3181654
+Gonorrhea,Orange,2017,Female,1165,1614708
+Gonorrhea,Orange,2017,Male,2387,1591147
+Gonorrhea,Orange,2017,Total,3572,3205855
+Gonorrhea,Orange,2018,Female,1309,1619377
+Gonorrhea,Orange,2018,Male,2645,1597440
+Gonorrhea,Orange,2018,Total,3967,3216817
+Gonorrhea,Placer,2015,Female,73,189327
+Gonorrhea,Placer,2015,Male,105,182221
+Gonorrhea,Placer,2015,Total,178,371548
+Gonorrhea,Placer,2016,Female,98,191794
+Gonorrhea,Placer,2016,Male,143,184795
+Gonorrhea,Placer,2016,Total,243,376589
+Gonorrhea,Placer,2017,Female,138,194890
+Gonorrhea,Placer,2017,Male,170,188087
+Gonorrhea,Placer,2017,Total,311,382977
+Gonorrhea,Placer,2018,Female,109,197781
+Gonorrhea,Placer,2018,Male,124,191266
+Gonorrhea,Placer,2018,Total,235,389047
+Gonorrhea,Plumas,2015,Female,NA,9831
+Gonorrhea,Plumas,2015,Male,NA,9801
+Gonorrhea,Plumas,2015,Total,5,19632
+Gonorrhea,Plumas,2016,Female,NA,9815
+Gonorrhea,Plumas,2016,Male,NA,9775
+Gonorrhea,Plumas,2016,Total,10,19590
+Gonorrhea,Plumas,2017,Female,NA,9785
+Gonorrhea,Plumas,2017,Male,NA,9765
+Gonorrhea,Plumas,2017,Total,8,19550
+Gonorrhea,Plumas,2018,Female,NA,9771
+Gonorrhea,Plumas,2018,Male,NA,9746
+Gonorrhea,Plumas,2018,Total,8,19517
+Gonorrhea,Riverside,2015,Female,852,1173164
+Gonorrhea,Riverside,2015,Male,1310,1160995
+Gonorrhea,Riverside,2015,Total,2165,2334159
+Gonorrhea,Riverside,2016,Female,930,1187187
+Gonorrhea,Riverside,2016,Male,1640,1175084
+Gonorrhea,Riverside,2016,Total,2575,2362271
+Gonorrhea,Riverside,2017,Female,1251,1202109
+Gonorrhea,Riverside,2017,Male,2090,1190402
+Gonorrhea,Riverside,2017,Total,3351,2392511
+Gonorrhea,Riverside,2018,Female,1482,1215557
+Gonorrhea,Riverside,2018,Male,2594,1204340
+Gonorrhea,Riverside,2018,Total,4082,2419897
+Gonorrhea,Sacramento,2015,Female,1347,758822
+Gonorrhea,Sacramento,2015,Male,1513,731203
+Gonorrhea,Sacramento,2015,Total,2868,1490025
+Gonorrhea,Sacramento,2016,Female,1242,766124
+Gonorrhea,Sacramento,2016,Male,1608,739070
+Gonorrhea,Sacramento,2016,Total,2853,1505194
+Gonorrhea,Sacramento,2017,Female,1302,773158
+Gonorrhea,Sacramento,2017,Male,2020,747527
+Gonorrhea,Sacramento,2017,Total,3329,1520685
+Gonorrhea,Sacramento,2018,Female,1668,779809
+Gonorrhea,Sacramento,2018,Male,2151,755084
+Gonorrhea,Sacramento,2018,Total,3838,1534893
+Gonorrhea,San Benito,2015,Female,28,29382
+Gonorrhea,San Benito,2015,Male,44,29291
+Gonorrhea,San Benito,2015,Total,72,58673
+Gonorrhea,San Benito,2016,Female,19,29824
+Gonorrhea,San Benito,2016,Male,22,29726
+Gonorrhea,San Benito,2016,Total,41,59550
+Gonorrhea,San Benito,2017,Female,30,30223
+Gonorrhea,San Benito,2017,Male,32,30068
+Gonorrhea,San Benito,2017,Total,62,60291
+Gonorrhea,San Benito,2018,Female,22,30694
+Gonorrhea,San Benito,2018,Male,29,30566
+Gonorrhea,San Benito,2018,Total,51,61260
+Gonorrhea,San Bernardino,2015,Female,1367,1071599
+Gonorrhea,San Bernardino,2015,Male,1392,1058476
+Gonorrhea,San Bernardino,2015,Total,2760,2130075
+Gonorrhea,San Bernardino,2016,Female,1587,1079142
+Gonorrhea,San Bernardino,2016,Male,1797,1065725
+Gonorrhea,San Bernardino,2016,Total,3386,2144867
+Gonorrhea,San Bernardino,2017,Female,1847,1088247
+Gonorrhea,San Bernardino,2017,Male,2117,1075314
+Gonorrhea,San Bernardino,2017,Total,3975,2163561
+Gonorrhea,San Bernardino,2018,Female,1780,1095268
+Gonorrhea,San Bernardino,2018,Male,2116,1083224
+Gonorrhea,San Bernardino,2018,Total,3904,2178492
+Gonorrhea,San Diego,2015,Female,1006,1629486
+Gonorrhea,San Diego,2015,Male,2673,1646411
+Gonorrhea,San Diego,2015,Total,3685,3275897
+Gonorrhea,San Diego,2016,Female,1472,1640100
+Gonorrhea,San Diego,2016,Male,3506,1657102
+Gonorrhea,San Diego,2016,Total,4987,3297202
+Gonorrhea,San Diego,2017,Female,1576,1650959
+Gonorrhea,San Diego,2017,Male,4350,1669428
+Gonorrhea,San Diego,2017,Total,5940,3320387
+Gonorrhea,San Diego,2018,Female,2089,1662322
+Gonorrhea,San Diego,2018,Male,4104,1682108
+Gonorrhea,San Diego,2018,Total,6208,3344430
+Gonorrhea,San Francisco,2015,Female,405,426743
+Gonorrhea,San Francisco,2015,Male,4058,438199
+Gonorrhea,San Francisco,2015,Total,4485,864942
+Gonorrhea,San Francisco,2016,Female,511,430874
+Gonorrhea,San Francisco,2016,Male,4732,442002
+Gonorrhea,San Francisco,2016,Total,5280,872876
+Gonorrhea,San Francisco,2017,Female,627,434960
+Gonorrhea,San Francisco,2017,Male,5122,445995
+Gonorrhea,San Francisco,2017,Total,5779,880955
+Gonorrhea,San Francisco,2018,Female,586,438348
+Gonorrhea,San Francisco,2018,Male,5268,449192
+Gonorrhea,San Francisco,2018,Total,5894,887540
+Gonorrhea,San Joaquin,2015,Female,583,365111
+Gonorrhea,San Joaquin,2015,Male,662,363361
+Gonorrhea,San Joaquin,2015,Total,1249,728472
+Gonorrhea,San Joaquin,2016,Female,535,369995
+Gonorrhea,San Joaquin,2016,Male,602,368766
+Gonorrhea,San Joaquin,2016,Total,1139,738761
+Gonorrhea,San Joaquin,2017,Female,614,375315
+Gonorrhea,San Joaquin,2017,Male,752,374495
+Gonorrhea,San Joaquin,2017,Total,1366,749810
+Gonorrhea,San Joaquin,2018,Female,665,379888
+Gonorrhea,San Joaquin,2018,Male,741,379298
+Gonorrhea,San Joaquin,2018,Total,1409,759186
+Gonorrhea,San Luis Obispo,2015,Female,65,135507
+Gonorrhea,San Luis Obispo,2015,Male,103,141352
+Gonorrhea,San Luis Obispo,2015,Total,168,276859
+Gonorrhea,San Luis Obispo,2016,Female,105,136054
+Gonorrhea,San Luis Obispo,2016,Male,126,142310
+Gonorrhea,San Luis Obispo,2016,Total,231,278364
+Gonorrhea,San Luis Obispo,2017,Female,70,136199
+Gonorrhea,San Luis Obispo,2017,Male,112,142481
+Gonorrhea,San Luis Obispo,2017,Total,182,278680
+Gonorrhea,San Luis Obispo,2018,Female,74,136515
+Gonorrhea,San Luis Obispo,2018,Male,114,142855
+Gonorrhea,San Luis Obispo,2018,Total,188,279370
+Gonorrhea,San Mateo,2015,Female,128,387979
+Gonorrhea,San Mateo,2015,Male,411,376871
+Gonorrhea,San Mateo,2015,Total,539,764850
+Gonorrhea,San Mateo,2016,Female,137,389713
+Gonorrhea,San Mateo,2016,Male,479,378860
+Gonorrhea,San Mateo,2016,Total,617,768573
+Gonorrhea,San Mateo,2017,Female,195,391068
+Gonorrhea,San Mateo,2017,Male,621,380834
+Gonorrhea,San Mateo,2017,Total,816,771902
+Gonorrhea,San Mateo,2018,Female,146,391861
+Gonorrhea,San Mateo,2018,Male,583,382298
+Gonorrhea,San Mateo,2018,Total,729,774159
+Gonorrhea,Santa Barbara,2015,Female,130,220439
+Gonorrhea,Santa Barbara,2015,Male,206,224094
+Gonorrhea,Santa Barbara,2015,Total,336,444533
+Gonorrhea,Santa Barbara,2016,Female,153,221905
+Gonorrhea,Santa Barbara,2016,Male,170,225481
+Gonorrhea,Santa Barbara,2016,Total,323,447386
+Gonorrhea,Santa Barbara,2017,Female,156,223181
+Gonorrhea,Santa Barbara,2017,Male,221,226957
+Gonorrhea,Santa Barbara,2017,Total,378,450138
+Gonorrhea,Santa Barbara,2018,Female,196,224571
+Gonorrhea,Santa Barbara,2018,Male,305,228717
+Gonorrhea,Santa Barbara,2018,Total,501,453288
+Gonorrhea,Santa Clara,2015,Female,612,952364
+Gonorrhea,Santa Clara,2015,Male,1168,967481
+Gonorrhea,Santa Clara,2015,Total,1783,1919845
+Gonorrhea,Santa Clara,2016,Female,600,958727
+Gonorrhea,Santa Clara,2016,Male,1347,975048
+Gonorrhea,Santa Clara,2016,Total,1948,1933775
+Gonorrhea,Santa Clara,2017,Female,735,963966
+Gonorrhea,Santa Clara,2017,Male,1724,981945
+Gonorrhea,Santa Clara,2017,Total,2459,1945911
+Gonorrhea,Santa Clara,2018,Female,629,968453
+Gonorrhea,Santa Clara,2018,Male,1553,988126
+Gonorrhea,Santa Clara,2018,Total,2184,1956579
+Gonorrhea,Santa Cruz,2015,Female,71,137250
+Gonorrhea,Santa Cruz,2015,Male,110,137441
+Gonorrhea,Santa Cruz,2015,Total,181,274691
+Gonorrhea,Santa Cruz,2016,Female,98,137848
+Gonorrhea,Santa Cruz,2016,Male,152,137942
+Gonorrhea,Santa Cruz,2016,Total,250,275790
+Gonorrhea,Santa Cruz,2017,Female,131,137831
+Gonorrhea,Santa Cruz,2017,Male,190,138028
+Gonorrhea,Santa Cruz,2017,Total,321,275859
+Gonorrhea,Santa Cruz,2018,Female,116,137444
+Gonorrhea,Santa Cruz,2018,Male,185,137777
+Gonorrhea,Santa Cruz,2018,Total,301,275221
+Gonorrhea,Shasta,2015,Female,196,90912
+Gonorrhea,Shasta,2015,Male,170,87672
+Gonorrhea,Shasta,2015,Total,366,178584
+Gonorrhea,Shasta,2016,Female,138,90473
+Gonorrhea,Shasta,2016,Male,146,87269
+Gonorrhea,Shasta,2016,Total,284,177742
+Gonorrhea,Shasta,2017,Female,96,90662
+Gonorrhea,Shasta,2017,Male,104,87578
+Gonorrhea,Shasta,2017,Total,200,178240
+Gonorrhea,Shasta,2018,Female,161,90580
+Gonorrhea,Shasta,2018,Male,143,87682
+Gonorrhea,Shasta,2018,Total,304,178262
+Gonorrhea,Sierra,2015,Female,NA,1557
+Gonorrhea,Sierra,2015,Male,NA,1595
+Gonorrhea,Sierra,2015,Total,3,3152
+Gonorrhea,Sierra,2016,Female,NA,1561
+Gonorrhea,Sierra,2016,Male,NA,1586
+Gonorrhea,Sierra,2016,Total,2,3147
+Gonorrhea,Sierra,2017,Female,0,1564
+Gonorrhea,Sierra,2017,Male,0,1585
+Gonorrhea,Sierra,2017,Total,0,3149
+Gonorrhea,Sierra,2018,Female,NA,1566
+Gonorrhea,Sierra,2018,Male,NA,1587
+Gonorrhea,Sierra,2018,Total,1,3153
+Gonorrhea,Siskiyou,2015,Female,NA,22358
+Gonorrhea,Siskiyou,2015,Male,NA,22182
+Gonorrhea,Siskiyou,2015,Total,8,44540
+Gonorrhea,Siskiyou,2016,Female,15,22303
+Gonorrhea,Siskiyou,2016,Male,16,22115
+Gonorrhea,Siskiyou,2016,Total,31,44418
+Gonorrhea,Siskiyou,2017,Female,15,22200
+Gonorrhea,Siskiyou,2017,Male,12,22040
+Gonorrhea,Siskiyou,2017,Total,27,44240
+Gonorrhea,Siskiyou,2018,Female,11,22128
+Gonorrhea,Siskiyou,2018,Male,12,21954
+Gonorrhea,Siskiyou,2018,Total,23,44082
+Gonorrhea,Solano,2015,Female,319,215801
+Gonorrhea,Solano,2015,Male,364,213676
+Gonorrhea,Solano,2015,Total,684,429477
+Gonorrhea,Solano,2016,Female,319,217744
+Gonorrhea,Solano,2016,Male,381,215917
+Gonorrhea,Solano,2016,Total,700,433661
+Gonorrhea,Solano,2017,Female,338,219554
+Gonorrhea,Solano,2017,Male,454,217880
+Gonorrhea,Solano,2017,Total,794,437434
+Gonorrhea,Solano,2018,Female,463,220526
+Gonorrhea,Solano,2018,Male,545,218946
+Gonorrhea,Solano,2018,Total,1009,439472
+Gonorrhea,Sonoma,2015,Female,148,254646
+Gonorrhea,Sonoma,2015,Male,294,246685
+Gonorrhea,Sonoma,2015,Total,443,501331
+Gonorrhea,Sonoma,2016,Female,180,255677
+Gonorrhea,Sonoma,2016,Male,370,247775
+Gonorrhea,Sonoma,2016,Total,551,503452
+Gonorrhea,Sonoma,2017,Female,185,255734
+Gonorrhea,Sonoma,2017,Male,388,247900
+Gonorrhea,Sonoma,2017,Total,574,503634
+Gonorrhea,Sonoma,2018,Female,189,254444
+Gonorrhea,Sonoma,2018,Male,361,246983
+Gonorrhea,Sonoma,2018,Total,553,501427
+Gonorrhea,Stanislaus,2015,Female,309,271370
+Gonorrhea,Stanislaus,2015,Male,441,266504
+Gonorrhea,Stanislaus,2015,Total,750,537874
+Gonorrhea,Stanislaus,2016,Female,345,274108
+Gonorrhea,Stanislaus,2016,Male,415,269453
+Gonorrhea,Stanislaus,2016,Total,760,543561
+Gonorrhea,Stanislaus,2017,Female,334,277550
+Gonorrhea,Stanislaus,2017,Male,434,272955
+Gonorrhea,Stanislaus,2017,Total,770,550505
+Gonorrhea,Stanislaus,2018,Female,369,279560
+Gonorrhea,Stanislaus,2018,Male,457,275143
+Gonorrhea,Stanislaus,2018,Total,828,554703
+Gonorrhea,Sutter,2015,Female,54,48877
+Gonorrhea,Sutter,2015,Male,42,48464
+Gonorrhea,Sutter,2015,Total,96,97341
+Gonorrhea,Sutter,2016,Female,42,49163
+Gonorrhea,Sutter,2016,Male,38,48773
+Gonorrhea,Sutter,2016,Total,80,97936
+Gonorrhea,Sutter,2017,Female,53,49328
+Gonorrhea,Sutter,2017,Male,85,49014
+Gonorrhea,Sutter,2017,Total,139,98342
+Gonorrhea,Sutter,2018,Female,72,49496
+Gonorrhea,Sutter,2018,Male,62,49239
+Gonorrhea,Sutter,2018,Total,135,98735
+Gonorrhea,Tehama,2015,Female,39,32273
+Gonorrhea,Tehama,2015,Male,34,31840
+Gonorrhea,Tehama,2015,Total,73,64113
+Gonorrhea,Tehama,2016,Female,43,32407
+Gonorrhea,Tehama,2016,Male,41,31929
+Gonorrhea,Tehama,2016,Total,84,64336
+Gonorrhea,Tehama,2017,Female,52,32464
+Gonorrhea,Tehama,2017,Male,42,31943
+Gonorrhea,Tehama,2017,Total,95,64407
+Gonorrhea,Tehama,2018,Female,41,32540
+Gonorrhea,Tehama,2018,Male,38,31992
+Gonorrhea,Tehama,2018,Total,79,64532
+Gonorrhea,Trinity,2015,Female,NA,6613
+Gonorrhea,Trinity,2015,Male,NA,6943
+Gonorrhea,Trinity,2015,Total,12,13556
+Gonorrhea,Trinity,2016,Female,NA,6590
+Gonorrhea,Trinity,2016,Male,NA,6899
+Gonorrhea,Trinity,2016,Total,10,13489
+Gonorrhea,Trinity,2017,Female,NA,6590
+Gonorrhea,Trinity,2017,Male,NA,6863
+Gonorrhea,Trinity,2017,Total,7,13453
+Gonorrhea,Trinity,2018,Female,NA,6573
+Gonorrhea,Trinity,2018,Male,NA,6834
+Gonorrhea,Trinity,2018,Total,12,13407
+Gonorrhea,Tulare,2015,Female,324,231929
+Gonorrhea,Tulare,2015,Male,343,232638
+Gonorrhea,Tulare,2015,Total,668,464567
+Gonorrhea,Tulare,2016,Female,338,233743
+Gonorrhea,Tulare,2016,Male,356,234489
+Gonorrhea,Tulare,2016,Total,695,468232
+Gonorrhea,Tulare,2017,Female,306,235666
+Gonorrhea,Tulare,2017,Male,339,236750
+Gonorrhea,Tulare,2017,Total,647,472416
+Gonorrhea,Tulare,2018,Female,360,237773
+Gonorrhea,Tulare,2018,Male,416,239136
+Gonorrhea,Tulare,2018,Total,776,476909
+Gonorrhea,Tuolumne,2015,Female,10,25722
+Gonorrhea,Tuolumne,2015,Male,24,27809
+Gonorrhea,Tuolumne,2015,Total,34,53531
+Gonorrhea,Tuolumne,2016,Female,18,25624
+Gonorrhea,Tuolumne,2016,Male,16,27667
+Gonorrhea,Tuolumne,2016,Total,34,53291
+Gonorrhea,Tuolumne,2017,Female,22,25398
+Gonorrhea,Tuolumne,2017,Male,25,27464
+Gonorrhea,Tuolumne,2017,Total,47,52862
+Gonorrhea,Tuolumne,2018,Female,13,25402
+Gonorrhea,Tuolumne,2018,Male,12,27388
+Gonorrhea,Tuolumne,2018,Total,25,52790
+Gonorrhea,Ventura,2015,Female,255,428479
+Gonorrhea,Ventura,2015,Male,365,424299
+Gonorrhea,Ventura,2015,Total,621,852778
+Gonorrhea,Ventura,2016,Female,270,428874
+Gonorrhea,Ventura,2016,Male,342,425027
+Gonorrhea,Ventura,2016,Total,614,853901
+Gonorrhea,Ventura,2017,Female,291,429274
+Gonorrhea,Ventura,2017,Male,422,425713
+Gonorrhea,Ventura,2017,Total,715,854987
+Gonorrhea,Ventura,2018,Female,280,429344
+Gonorrhea,Ventura,2018,Male,410,426145
+Gonorrhea,Ventura,2018,Total,692,855489
+Gonorrhea,Yolo,2015,Female,80,109141
+Gonorrhea,Yolo,2015,Male,109,103875
+Gonorrhea,Yolo,2015,Total,189,213016
+Gonorrhea,Yolo,2016,Female,81,111192
+Gonorrhea,Yolo,2016,Male,132,105642
+Gonorrhea,Yolo,2016,Total,213,216834
+Gonorrhea,Yolo,2017,Female,117,112773
+Gonorrhea,Yolo,2017,Male,183,106985
+Gonorrhea,Yolo,2017,Total,300,219758
+Gonorrhea,Yolo,2018,Female,88,113555
+Gonorrhea,Yolo,2018,Male,181,108002
+Gonorrhea,Yolo,2018,Total,269,221557
+Gonorrhea,Yuba,2015,Female,41,36971
+Gonorrhea,Yuba,2015,Male,40,37558
+Gonorrhea,Yuba,2015,Total,81,74529
+Gonorrhea,Yuba,2016,Female,28,37431
+Gonorrhea,Yuba,2016,Male,36,37998
+Gonorrhea,Yuba,2016,Total,64,75429
+Gonorrhea,Yuba,2017,Female,80,38063
+Gonorrhea,Yuba,2017,Male,91,38704
+Gonorrhea,Yuba,2017,Total,175,76767
+Gonorrhea,Yuba,2018,Female,82,38451
+Gonorrhea,Yuba,2018,Male,89,39043
+Gonorrhea,Yuba,2018,Total,172,77494
