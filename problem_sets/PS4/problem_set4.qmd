@@ -1,0 +1,140 @@
+---
+title: "PHW251 Problem Set 4"
+author: "Nilson Palma"
+date: "2025-09-29"
+format: pdf
+---
+
+For this problem set you will tidy up a dataset of 500 individuals. We also want to calculate each individual's BMI and appropriately categorize them.
+
+Load your data ("../data/500_Person_Gender_Height_Weight.csv"):
+
+```{r load, include=FALSE}
+library(readr)
+library(tidyverse)
+library(janitor)
+persons <- read_csv("500_Person_Gender_Height_Weight.csv")
+mega <- read_csv("500_Person_Gender_Height_Weight.csv")
+```
+
+### Question 1
+
+Clean the column headers to be all lower case, have no spaces, and rename "Location information" to location.
+
+```{r clean}
+persons <- clean_names(persons)
+persons <- persons %>% 
+  rename(location = location_information)
+colnames(persons)
+```
+
+\newpage 
+
+### Question 2
+
+Create a new variable that calculates BMI for each individual.
+
+You will need to navigate the different system of measurements (metric vs imperial). Only the United States is using imperial.
+
+* BMI calculation and conversions:
+    - metric:   $BMI = weight (kg) / [height (m)]^2$
+    - imperial: $BMI = 703 * weight (lbs) / [height (in)]^2$
+    - 1 foot = 12 inches
+    - 1 cm = 0.01 meter
+
+Although there's many ways you can accomplish this task, we want you to use an if_else() to calculate BMI with the appropriate formula based on each person's location. 
+
+```{r bmi_calc}
+unique(persons$location)
+persons1 <- persons %>% 
+  mutate(bmi = if_else(
+    location %in% c("United Kingdom", "Taiwan"), 
+    weight / ((height/100)^2), 
+    703 * weight / ((height*12)^2) 
+    ))
+head(persons1)
+```
+
+\newpage
+
+### Question 3
+
+Create a new variable that categorizes BMI with case_when():
+
+* Underweight: BMI below 18.5
+* Normal: 18.5-24.9
+* Overweight: 25.0-29.9
+* Obese: 30.0 and Above
+
+```{r bmi_cat}
+persons2 <- persons1 %>% 
+  mutate(bmi_cat = case_when(
+    bmi < 18.5 ~ "Underweight",
+    bmi >= 18.5 & bmi <= 24.9 ~ "Normal",
+    bmi >= 25 & bmi <= 29.9 ~ "Overweight",
+    bmi >= 30.0 ~ "Obese"
+  ))
+head(persons2)
+```
+
+Could we have used if_else()?  
+
+Yes if_else() could do the same categorization.
+
+\newpage
+
+### Question 4
+
+Arrange your data first by location and then by descending order of BMI.
+
+```{r arrange_ds}
+arrange(persons2, location, desc(bmi))
+
+```
+
+### Question 5
+
+Use a dplyr method to remove the height, weight, and BMI columns from your data.
+
+```{r remove_cols}
+persons3 <- persons2 %>% 
+  select(-c(height, weight, bmi))
+
+head(persons3)
+```
+
+\newpage
+
+### Optional Challenge
+
+Perform all the actions in this problem set with one dpylr call. 
+
+```{r mega_call}
+final <- mega %>%
+  #Clean column names and rename location information 
+  clean_names() %>%
+  rename(location = location_information) %>%
+  
+  #Calculate BMI with metric vs imperial 
+  mutate(bmi = if_else(
+      location %in% c("United Kingdom", "Taiwan"),
+      weight / ((height / 100)^2),            # metric height from cm to m
+      703 * weight / ((height * 12)^2)        # imperial height from ft to in
+    )) %>%
+  
+  #Categorize BMI
+  mutate(bmi_cat = case_when(
+      bmi < 18.5 ~ "Underweight",
+      bmi >= 18.5 & bmi <= 24.9 ~ "Normal",
+      bmi >= 25.0 & bmi <= 29.9 ~ "Overweight",
+      bmi >= 30.0 ~ "Obese",
+    )) %>%
+  
+  #Arrange by location then bmi descending
+  arrange(location, desc(bmi)) %>%
+  
+  #Drop height, weight, and bmi
+  select(-c(height, weight, bmi))
+
+head(final)
+```
